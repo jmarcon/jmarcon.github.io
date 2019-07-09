@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-07-09T20:17:12+00:00</updated><id>/feed.xml</id><title type="html">Juliano Marcon</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><author><name>Juliano Marcon</name><email>dongg.liang#gmail.com</email></author><entry><title type="html">O Débito Técnico das Empresas Projetizadas</title><link href="/posts/2016/04/o-debito-tecnico-das-empresas-projetizadas/" rel="alternate" type="text/html" title="O Débito Técnico das Empresas Projetizadas" /><published>2016-04-24T14:36:41+00:00</published><updated>2016-04-24T14:36:41+00:00</updated><id>/posts/2016/04/o-debito-tecnico-das-empresas-projetizadas</id><content type="html" xml:base="/posts/2016/04/o-debito-tecnico-das-empresas-projetizadas/">&lt;p&gt;Durante o desenvolvimento de qualquer projeto, atalhos são tomados. O motivo? Vamos fazê-lo para entregar mais rápido. Só dessa vez.&lt;/p&gt;
+
+&lt;p&gt;O débito técnico se acumula e, pouco a pouco, o código do produto é corrompido. Ninguém vai se importar com isso por muito tempo, mas, eventualmente alguém terá que se lidar com isso e, provavelmente, será você.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Isso é algo que ocorre em todo projeto e a concorrência faz a mesma coisa para lançar novos recursos mais rápido.&lt;/p&gt;
+
+&lt;p&gt;Sabendo disso, como pagar os débitos? O primeiro passo é: Torne os problemas visíveis. Como?&lt;/p&gt;
+
+&lt;h2 id=&quot;monitore-monitore-e-monitore&quot;&gt;Monitore, monitore e monitore&lt;/h2&gt;
+
+&lt;p&gt;Compartilhe a informação dos problemas enfrentados por sua aplicação, performance, hardware, bugs e erros com a empresa. Se possível, com o cliente.&lt;/p&gt;
+
+&lt;p&gt;Os mais conservadores dirão: “Minha nossa! Mas assim os stakeholders vão ver que temos problemas!”. &lt;strong&gt;Exato!&lt;/strong&gt; O investimento em projetos com foco em entrega da melhoria dos ambientes e evolução de código sem criar funcionalidades precisam de um motivador e apoio dos que aprovam os esforços dos times.&lt;/p&gt;
+
+&lt;p&gt;Lógico que não deve existir dúvidas que foi feito o melhor para entregar os resulados mais rapidamente durante os projetos mas que o investimento em qualidade é essencial para a continuidade do negócio.&lt;/p&gt;
+
+&lt;p&gt;A monitoração vai proporcionar um conjunto de dados que vai sensibilizar a todos sobre quais pontos são mais críticos. Contra dados não há argumentos.&lt;/p&gt;
+
+&lt;p&gt;Aprove o projeto com foco em resolver o que dói mais para a empresa e para os clientes. As informações obtidas da supervisão constante das informações de comportamento das aplicações permitem escolher o escopo do projeto com foco na entrega de maior valor para seu cliente.&lt;/p&gt;
+
+&lt;h2 id=&quot;trabalhe-os-valores-da-equipe&quot;&gt;Trabalhe os valores da equipe&lt;/h2&gt;
+
+&lt;p&gt;O código dos produtos é um bem valioso para a empresa. Mas são as pessoas que os constroem e modificam. Elas são seu bem mais precioso e seus valores vão ditar a qualidade com que os produtos serão tratados. A qualidade se origina dos valores.&lt;/p&gt;
+
+&lt;h4 id=&quot;você-precisa-se-importar&quot;&gt;Você precisa se importar&lt;/h4&gt;
+
+&lt;p&gt;Não faz sentido querer que as pessoas se importem com a qualidade do código se você não se importar. O exemplo é o maior motivador.&lt;/p&gt;
+
+&lt;p&gt;O foco em resultado muitas vezes ofusca o valor da qualidade do código.&lt;/p&gt;
+
+&lt;h4 id=&quot;seu-time-precisa-se-importar&quot;&gt;Seu time precisa se importar&lt;/h4&gt;
+
+&lt;p&gt;As pessoas que trabalham com o código dos produtos tem que enxergar o valor agregado que estão entregando. Cada novo produto, modificação ou funcionalidade vai gerar impacto na vida de diversas pessoas.&lt;/p&gt;
+
+&lt;p&gt;Mesmo que eles tenham a dificuldade de enxergar valor na entrega, a qualidade do código vai impactar diretamente seus companheiros de equipe, os futuros funcionários e toda a cadeia de trabalho de software.&lt;/p&gt;
+
+&lt;h4 id=&quot;disciplina-é-a-essência&quot;&gt;Disciplina é a essência&lt;/h4&gt;
+
+&lt;p&gt;Uma vez que você (ou alguém do seu time) comece procrastinar sobre a qualidade, será muito difícil parar de deixar as coisas de lado. É um cuidado constante de todos.&lt;/p&gt;
+
+&lt;h4 id=&quot;ritmo-constante&quot;&gt;Ritmo constante&lt;/h4&gt;
+
+&lt;p&gt;Lembre-se do ditado: &lt;em&gt;o ótimo é inimigo do bom&lt;/em&gt;. Progredir na qualidade é mais importante do que atingir a perfeição.&lt;/p&gt;
+
+&lt;h4 id=&quot;pequenas-vitórias-são-importantes&quot;&gt;Pequenas vitórias são importantes&lt;/h4&gt;
+
+&lt;p&gt;Quando o time começar a produzir partes de código realmente bons, isso vai induzir a melhorar as outras partes também. Uma conquista leva até outra e, consequentemente, gera tração.&lt;/p&gt;
+
+&lt;h2 id=&quot;mostre-resultado&quot;&gt;Mostre resultado&lt;/h2&gt;
+
+&lt;p&gt;Utilize os dados de monitoração com antes e depois de cada evento importante para o produto, como o lançamento de novas funcionalidades, uma ação de marketing ou a implantação de suas melhorias de qualidade.&lt;/p&gt;
+
+&lt;p&gt;Compartilhe com todos as vitórias e tente fomentar ações de &lt;a href=&quot;/posts/2016/04/sobre-refactoring/&quot;&gt;refactoring&lt;/a&gt; durante o desenvolvimento do software. Os projetos específicos de qualidade não vão desaparecer, mas vão diminuir com o tempo.&lt;/p&gt;</content><author><name>Juliano Marcon</name><email>dongg.liang#gmail.com</email></author><category term="Tecnologia" /><category term="Projetos" /><category term="Brasil" /><category term="Débito Técnico" /><category term="Visão Corporativa" /><summary type="html">Durante o desenvolvimento de qualquer projeto, atalhos são tomados. O motivo? Vamos fazê-lo para entregar mais rápido. Só dessa vez.</summary></entry><entry><title type="html">Sobre TDD e Refactoring</title><link href="/posts/2016/04/sobre-refactoring/" rel="alternate" type="text/html" title="Sobre TDD e Refactoring" /><published>2016-04-20T20:48:35+00:00</published><updated>2016-04-20T20:48:35+00:00</updated><id>/posts/2016/04/sobre-refactoring</id><content type="html" xml:base="/posts/2016/04/sobre-refactoring/">&lt;p&gt;A preocupação diária com a qualidade dos código construídos nas empresas que desenvolvem software, próprios ou para terceiros, estão fomentando a prática de técnicas como o TDD.&lt;/p&gt;
+
+&lt;p&gt;Os times tem espaço para aprender e aplicar essa técnica? Será que as empresas realmente sabem o que significa isso?&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h3 id=&quot;o-que-é-tdd&quot;&gt;O que é TDD?&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pt.wikipedia.org/wiki/Test_Driven_Development&quot;&gt;Test Driven Development (TDD)&lt;/a&gt;, ou em tradução livre, Desenvolvimento Orientado a Testes é uma metodologia com foco em converter as necessidades de negócios em testes computacionais para, em seguida, escrever um trecho de código que passe no teste e, finalmente, executar o Refactoring dos programas.&lt;/p&gt;
+
+&lt;p&gt;Busca-se um código de qualidade, funcionando e testado, através da repetição contínua do ciclo apresentado acima.&lt;/p&gt;
+
+&lt;h3 id=&quot;o-que-é-refactoring&quot;&gt;O que é Refactoring?&lt;/h3&gt;
+
+&lt;p&gt;É a prática de reescrever códigos sem alterar sua funcionalidade evoluindo suas características não funcionais. Executar de forma contínua pequenos procedimentos de refactoring produz uma reestruturação significativa no projeto.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/qualidade.png&quot; alt=&quot;Qualidade&quot; style=&quot;max-width:200px; float:left; margin:10px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;O passo de Refactoring é o que garante a qualidade e performance do código escrito e, portanto, o procedimento mais impactado pelo triângulo da qualidade.&lt;/p&gt;
+
+&lt;p&gt;Durante o levantamento de projetos e seu planejamento, as principais informações que são avaliadas pelos stakeholders são os lados desse triângulo, e tentam ao máximo reduzir o custo e o tempo sempre tentando incluir o máximo de escopo.&lt;/p&gt;
+
+&lt;p&gt;Mesmo que a grande maioria dos gestores de projeto conheça essa tríplice, quando se trata de software, a espectativa deles é que a qualidade seja garantida pela equipe de desenvolvimento. Desta formar, a qualidade é a primeira que sofre impactos quando o cronograma precisa ser reduzido sem perder as funcionalidades pedidas pelo cliente.&lt;/p&gt;
+
+&lt;p&gt;Isso seria um comportamento aceitável em circunstâncias onde exista flexibilidade para rever o código posteriormente. Mas… Projetos devem ter começo e fim. A solução seria criar um novo projeto para resolver as falhas futuras, mas é difícil defender o lucro em um projeto assim. Tento apresentar uma sugestão para lidar com essa situação em &lt;a href=&quot;/posts/2016/04/o-debito-tecnico-das-empresas-projetizadas/&quot;&gt;outro artigo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ao final, considerado entregue, um produto sai da fila de prioridades da empresa e novos projetos começam a ser estudados.&lt;/p&gt;
+
+&lt;h3 id=&quot;como-manter-a-qualidade&quot;&gt;Como manter a qualidade?&lt;/h3&gt;
+
+&lt;p&gt;A janela da situação do projeto continuará sendo um cronograma, mas não apenas é possível apresentar as necessidades e os benefícios de investir na qualidade durante o desenvolvimento, como é simples demonstrar o valor agregado nessas ações.&lt;/p&gt;
+
+&lt;h5 id=&quot;qualidade-faz-parte-do-escopo&quot;&gt;Qualidade faz parte do escopo:&lt;/h5&gt;
+
+&lt;p&gt;Apesar de improvável, o levantamento inicial deveria considerar os requisitos não funcionais como parte do escopo e o tempo de refactoring necessário para garantir a qualidade do código.&lt;/p&gt;
+
+&lt;p&gt;Esses tempo deve ser defendido no projeto como risco operacional futuro e dependências para a continuidade do negócio.&lt;/p&gt;
+
+&lt;p&gt;Em times ágeis, a participação de um arquiteto e o auto aprendizado do time causa um senso de responsabilidade pelo produto que força as pessoas a considerar o refactoring no momento da definição do escopo das atividades.&lt;/p&gt;
+
+&lt;h5 id=&quot;equipes-de-qualidade-que-entendem-do-código&quot;&gt;Equipes de qualidade que entendem do código:&lt;/h5&gt;
+
+&lt;p&gt;Definir uma equipe de revisão de código constante e responsável pela arquitetura e requisitos não funcionais de cada projeto.&lt;/p&gt;
+
+&lt;p&gt;Essas equipes poderiam ser divididas por linha de negócios ou produto e deveriam não apenas fomentar os refactorings antes da entrega das funcionaldiades mas também acompanhar o desenvolvimento de perto.&lt;/p&gt;
+
+&lt;p&gt;É uma prática comum para escalar os times ágeis ter um time de arquitetura responsável por um conjunto de produtos e funcionalidades apoiando os times de desenvolvimento.&lt;/p&gt;
+
+&lt;h5 id=&quot;definir-o-que-testar&quot;&gt;Definir o que testar:&lt;/h5&gt;
+
+&lt;p&gt;Ter absolutamente tudo com testes é algo muito caro e, provavelmente, o custo envolvido supera os benefícios.&lt;/p&gt;
+
+&lt;p&gt;Um código 100% testado pode parecer um sonho para muitos desenvolvedores e entusiastas do TDD, mas é fato que para ter esse nível de qualidade, muito tempo e dinheiro devem ser investidos.&lt;/p&gt;
+
+&lt;p&gt;É preciso ponderar se os testes estão realmente agregando valor para a empresa, pois pode ocorrer que o custo de manutenção do teste supere os custos de manutenção do código.&lt;/p&gt;
+
+&lt;p&gt;Definir uma porcentagem de cobertura dos testes pode ajudar flexibilizar o esforço, mas isso pode impactar como as pessoas escrevem os testes e os desenvolvedores podem acabar focando em escrever os testes mais simples e deixar as rotinas mais complexas descobertas. Isso é o oposto de agregar valor.&lt;/p&gt;
+
+&lt;p&gt;Portanto, neste caso, o time deve ser guiado e evoluir para conseguir criar uma consciência comum sobre a relevância do teste, a visão da equipe de negócios sobre a funcionalidade e a percepção dos programas que possuem dependências de outros trechos de código e que podem ser impactados facilmente por alterações futuras.&lt;/p&gt;
+
+&lt;h5 id=&quot;acompanhe&quot;&gt;Acompanhe:&lt;/h5&gt;
+
+&lt;p&gt;Use algumas métricas para acompanhar a evolução da qualidade de seu código, como a quantidade de defeitos encontrados após a entrega, a melhora da velocidade da aplicação ou a diminuição das reclamações dos clientes.&lt;/p&gt;</content><author><name>Juliano Marcon</name><email>dongg.liang#gmail.com</email></author><category term="Tecnologia" /><category term="Projetos" /><category term="Brasil" /><category term="Débito Técnico" /><category term="Visão Corporativa" /><summary type="html">A preocupação diária com a qualidade dos código construídos nas empresas que desenvolvem software, próprios ou para terceiros, estão fomentando a prática de técnicas como o TDD.</summary></entry><entry><title type="html">Como ser um desenvolvedor melhor</title><link href="/posts/2016/04/como-ser-um-desenvolvedor-melhor/" rel="alternate" type="text/html" title="Como ser um desenvolvedor melhor" /><published>2016-04-18T20:53:07+00:00</published><updated>2016-04-18T20:53:07+00:00</updated><id>/posts/2016/04/como-ser-um-desenvolvedor-melhor</id><content type="html" xml:base="/posts/2016/04/como-ser-um-desenvolvedor-melhor/">&lt;p&gt;Conhecer com maestria uma determinada tecnologia pode não ser suficiente
+para definir um ótimo desenvolvedor de softwares nos dias atuais. Os conceitos
+de &lt;a href=&quot;http://www.manifestoagil.com.br/&quot;&gt;agilidade&lt;/a&gt; acabam por determinar comportamentos
+esperados dos envolvidos na criação de softwares.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;As habilidades ou “Soft Skills” do profissional diferenciado no
+mercado atual seriam:&lt;/p&gt;
+
+&lt;h3 id=&quot;consciência&quot;&gt;Consciência&lt;/h3&gt;
+
+&lt;p&gt;Saber no que você é bom e no que você não é. Isso é um diferencial nas equipes que tem foco em desenvolver softwares com qualidade, principalmente nos momentos em que é preciso definir quais serão suas atividades para a próxima entrega.&lt;/p&gt;
+
+&lt;p&gt;Se você possui um emprego que te permite fazer o que gosta e que te paga bem, tenha a consciência de que tem sorte. Vivemos em tempos que a demanda por programadores excede a oferta, mesmo assim, nem todos tem essa sorte.&lt;/p&gt;
+
+&lt;h3 id=&quot;humildade&quot;&gt;Humildade&lt;/h3&gt;
+
+&lt;p&gt;Estar aberto à possibilidade de estar errado é fundamental para fazer parte
+de um time. Aprenda, melhore sempre e reconheça seus erros sempre que estes
+aparecerem. Quanto menos as pessoas do time tiverem medo de estarem
+erradas, mais confiantes elas serão.&lt;/p&gt;
+
+&lt;p&gt;Confie que as pessoas farão seu trabalho!&lt;/p&gt;
+
+&lt;h3 id=&quot;empatia&quot;&gt;Empatia&lt;/h3&gt;
+
+&lt;p&gt;Pratique isso com todos que você conhece e que interagem com seu trabalho. Entenda que a equipe de negócios e o seu time serão os maiores afetados pelas decisões que você tomar. Não é possível ter colaboração com o cliente sem se colocar no lugar dele, muito menos responder a mudanças de forma satisfatória.&lt;/p&gt;
+
+&lt;p&gt;Nunca assuma que sabe o motivo de uma decisão, a não ser que esteja na sala quando ela foi tomada.&lt;/p&gt;
+
+&lt;h3 id=&quot;espirito-de-time&quot;&gt;Espirito de Time&lt;/h3&gt;
+
+&lt;p&gt;Indivíduos e a interação entre eles são essenciais para entregar valor da melhor forma.
+É importante saber que suas atividades vão impactar as pessoas ao seu redor e as suas entregas vão melhorar a vida de várias pessoas. Pessoas relacionadas a negócios e desenvolvedores devem trabalhar em conjunto e, diariamente, durante todo o curso do projeto.&lt;/p&gt;
+
+&lt;p&gt;Compartilhe o que sabe e o que aprendeu com as pessoas ao seu redor e sempre peça para que elas façam o mesmo com você. Lembre-se: o método mais eficiente de transmitir informações é através de uma conversa cara a cara.&lt;/p&gt;
+
+&lt;p&gt;Cuidado ao entrar em discussões do tipo A contra B. Raramente isso vale o tempo e, com certeza, não vai entregar valor. Ja comentei sobre isso em &lt;a href=&quot;/posts/2016/03/a-guerra-das-linguagens/&quot;&gt;Guerra das Linguagens&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;criatividade&quot;&gt;Criatividade&lt;/h3&gt;
+
+&lt;p&gt;A tecnologia não para e muita coisa nova e interessante aparece todos os dias. Os profissionais devem considerar separar um tempo semanal para conhecer o que está surgindo na comunidade.&lt;/p&gt;
+
+&lt;p&gt;Se for até algum congresso ou conferência, não deixe de participar de, pelo menos, uma
+palestra de uma tecnologia que você não domina. Conhecer outras abordagens e
+soluções vai te ajudar a ser um desenvolvedor melhor.&lt;/p&gt;
+
+&lt;h3 id=&quot;cuidadoso&quot;&gt;Cuidadoso&lt;/h3&gt;
+
+&lt;p&gt;Seja cético com posições extremas. Normalmente quando conhecemos algum ‘evangelista’
+nos deparamos com a solução para tudo.&lt;/p&gt;
+
+&lt;p&gt;Seja liberal ao aprender algo novo mas, seja conservador em realmente utilizar. Afinal,
+qualquer tecnologia pode ser a melhor escolha dependendo da necessidade do projeto
+e da capacidade do time.&lt;/p&gt;
+
+&lt;p&gt;Enfim, as melhores arquiteturas, requisitos e designs emergem de times
+auto-organizáveis.&lt;/p&gt;
+
+&lt;h3 id=&quot;lealdade-e-respeito-com-as-pessoas&quot;&gt;Lealdade e respeito com as pessoas&lt;/h3&gt;
+
+&lt;p&gt;A lealdade com as pessoas é um valor importante na construção de um grupo de trabalho.
+Não seja leal a marcas, empresas ou tecnologias. Quem vai sempre te apoiar é o
+seu time.&lt;/p&gt;
+
+&lt;p&gt;O respeito entre todos é essencial para que as pessoas possam refletir e tomar descisões sobre como o time pode se tornar mais efetivo, se
+ajustar e otimizar os comportamentos dos indivíduos para atingir os objetivos.&lt;/p&gt;
+
+&lt;h1 id=&quot;valores&quot;&gt;Valores&lt;/h1&gt;
+
+&lt;p&gt;Se para você os valores acima são óbvios, então é bem provável que você já os tenha
+impregnados em seu dia a dia. Neste caso, tenha empatia para com aqueles que não
+mantêm esses comportamentos e os apoie a evoluir.&lt;/p&gt;
+
+&lt;p&gt;Caso não seja seu caso, é um bom momento para revisar seus valores e pensar sobre
+como serão suas atividades no futuro. O mundo está mudando, talvez seja hora de
+mudar com ele.&lt;/p&gt;</content><author><name>Juliano Marcon</name><email>dongg.liang#gmail.com</email></author><category term="Liderança Corporativa" /><category term="Visão Corporativa" /><summary type="html">Conhecer com maestria uma determinada tecnologia pode não ser suficiente para definir um ótimo desenvolvedor de softwares nos dias atuais. Os conceitos de agilidade acabam por determinar comportamentos esperados dos envolvidos na criação de softwares.</summary></entry><entry><title type="html">Multitarefa e a motivação</title><link href="/posts/2016/04/multitarefa-e-a-motivacao/" rel="alternate" type="text/html" title="Multitarefa e a motivação" /><published>2016-04-17T19:06:25+00:00</published><updated>2016-04-17T19:06:25+00:00</updated><id>/posts/2016/04/multitarefa-e-a-motivacao</id><content type="html" xml:base="/posts/2016/04/multitarefa-e-a-motivacao/">&lt;p&gt;As exigências da globalização e da redução de custos das empresas estão criando um
+foco cada vez maior na arte de fazer mais com menos. Isso está gerando a busca por
+pessoas com a capacidade de fazer várias coisas ao mesmo tempo, o que é um desafio para as equipes de recursos humanos. Entretanto, será que isso está tornando as pessoas realmente mais produtivas?
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/science/2015/jan/18/modern-world-bad-for-brain-daniel-j-levitin-organized-mind-information-overload&quot;&gt;Nossos cérebros não foram feitos para ser multitarefa&lt;/a&gt;. Seu design foi construído para focar em uma coisa de cada vez e bombardea-lo com vários tipos de informação apenas o torna mais lento.&lt;/p&gt;
+
+&lt;p&gt;Sabemos que as pessoas trabalham cada vez mais, mas devido à natureza das atividades,
+o sentimento é de estar correndo em círculos, ou seja, muito esforço para poucos
+resultados.&lt;/p&gt;
+
+&lt;p&gt;Dificilmente as múltiplas tarefas são percebidas como “em andamento”, pois não existe
+tempo hábil para acompanhar o status de tanta informação. Assim, o sentimento
+que prevalece é que não há entrega de valor.&lt;/p&gt;
+
+&lt;p&gt;Quanto mais esse sentimento aumenta, mais difícil será para manter as entregas em dia.&lt;/p&gt;
+
+&lt;h3 id=&quot;mas-como-lidar-com-isso&quot;&gt;Mas, como lidar com isso?&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/path-min.jpg&quot; alt=&quot;Mono-vs-Multi&quot; class=&quot;img-responsive&quot; style=&quot;width:100%; max-width:150px; max-height:300px; float:left; padding:10px 20px 10px 0;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;No seu dia-a-dia é importante conseguir ordenar suas atividades por ordem de criticidade. Aqui, a definição do que é mais urgente deve ocorrer alinhada sua gestão ou com a necessidade dos clientes. Manter um relacionamento próximo com seu superior pode ajudar muito a organizar suas prioridades.&lt;/p&gt;
+
+&lt;p&gt;Para que seu cérebro entenda um trabalho como feito e você possa se auto-motivar. Todos os dias de manhã crie uma lista com 1 ou 2 conquistas, seguido de uma lista ordenada das atividades do dia.&lt;/p&gt;
+
+&lt;p&gt;Acompanhe a finalização das tarefas e comemore caso consiga atingir as conquistas
+definidas para o dia. Essas conquistas devem ser atividades complexas ou que possuem a maior urgência.&lt;/p&gt;
+
+&lt;p&gt;Para ajudar a se organizar, use ferramentas de gestão de tempo e organização de tarefas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pt.wikipedia.org/wiki/Getting_Things_Done&quot;&gt;GTD&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://pomodorotechnique.com/&quot;&gt;Pomodoro&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pt.wikipedia.org/wiki/GUT&quot;&gt;Matriz GUT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;como-um-gestor-lida-com-tudo&quot;&gt;Como um gestor lida com tudo?&lt;/h5&gt;
+
+&lt;p&gt;No papel de líder e gestor de uma equipe, é parte de seu trabalho manter todas as
+pessoas sabendo quais são seus principais objetivos e o resultado que se espera delas.&lt;/p&gt;
+
+&lt;p&gt;Se você já é um profissional que alcançou sua posição de gestão entendendo como
+priorizar suas atividades, ensine seu time a fazer o mesmo. Se esse não for seu caso,
+pedir apoio ao seu time e tentar aprender com eles é a melhor opção. Não será possível acompanhar o rápido desenvolvimento das pessoas sem evoluir sobre gestão de tempo.&lt;/p&gt;
+
+&lt;p&gt;Existem alguns métodos e ferramentas para apoiar a gerir uma equipe.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Performance_indicator&quot;&gt;KPI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/OKR&quot;&gt;OKR&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://endeavor.org.br/por-que-e-tao-dificil-dar-e-receber-feedback/&quot;&gt;Feedback constante&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;No mundo atual vai existir sempre muita coisa interessante a ser desenvolvida e construída. Garanto que tudo será urgente e importante para o cliente. Assim, não poderia ser mais verdadeira a citação abaixo:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;h3 id=&quot;algumas-pessoas-acham-que-foco-significa-dizer-sim-para-a-coisa-em-que-você-irá-se-focar-não-é-nada-disso-foco-significa-dizer-não-às-centenas-de-outras-boas-ideias-que-existem-você-precisa-selecionar-cuidadosamente&quot;&gt;Algumas pessoas acham que foco significa dizer sim para a coisa em que você irá se focar. Não é nada disso. Foco significa dizer &lt;strong&gt;não&lt;/strong&gt; às centenas de outras boas ideias que existem. Você precisa selecionar cuidadosamente.&lt;/h3&gt;
+  &lt;p&gt;&lt;em&gt;Steve Jobs&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Juliano Marcon</name><email>dongg.liang#gmail.com</email></author><category term="Pessoas" /><category term="Liderança Corporativa" /><category term="Visão Corporativa" /><summary type="html">As exigências da globalização e da redução de custos das empresas estão criando um foco cada vez maior na arte de fazer mais com menos. Isso está gerando a busca por pessoas com a capacidade de fazer várias coisas ao mesmo tempo, o que é um desafio para as equipes de recursos humanos. Entretanto, será que isso está tornando as pessoas realmente mais produtivas?</summary></entry><entry><title type="html">É tudo JavaScript</title><link href="/posts/2016/04/e-tudo-javascript/" rel="alternate" type="text/html" title="É tudo JavaScript" /><published>2016-04-16T18:42:00+00:00</published><updated>2016-04-16T18:42:00+00:00</updated><id>/posts/2016/04/e-tudo-javascript</id><content type="html" xml:base="/posts/2016/04/e-tudo-javascript/">&lt;p&gt;Vejo que atualmente muito se fala sobre MEAN Stack. Em resumo é uma pilha de tecnologias para desenvolvimento web baseada em JavaScript. Não pretendo discutir se a linguagem é a melhor. Vou apresentar as vantagens e desvantagens de basear todo o ambiente em uma única linguagem.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Se seu foco é aprender sobre o MEAN, pode encontrar informações agrupadas em
+&lt;a href=&quot;http://www.mean.io&quot;&gt;MEAN.IO&lt;/a&gt; ou em &lt;a href=&quot;https://www.meanjs.org&quot;&gt;MEAN.JS&lt;/a&gt;. Mas sugiro
+que foque primeiro nas tecnologias em separado:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mongodb.org&quot;&gt;&lt;strong&gt;M&lt;/strong&gt;ongo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.expressjs.com&quot;&gt;&lt;strong&gt;E&lt;/strong&gt;xpress&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.angularjs.org&quot;&gt;&lt;strong&gt;A&lt;/strong&gt;ngular&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nodejs.org&quot;&gt;&lt;strong&gt;N&lt;/strong&gt;ode&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Se sua situação atual está um passo antes, ou seja, decidindo SE vai utilizar
+esse conjunto de recursos vou levantar alguns pontos que podem ser de seu interesse
+para apoiar sua escolha.&lt;/p&gt;
+
+&lt;h3 id=&quot;vantagens&quot;&gt;Vantagens&lt;/h3&gt;
+
+&lt;h4 id=&quot;a-linguagem-é-sempre-a-mesma&quot;&gt;A linguagem é sempre a mesma&lt;/h4&gt;
+
+&lt;p&gt;Ter um ambiente onde todos os sistemas falam a mesma língua ajuda as pessoas
+a conseguirem discutir livremente sobre o que pode estar ocorrendo ou como criar um programa da melhor forma possível.&lt;/p&gt;
+
+&lt;p&gt;A análise da qualidade do código pode ser simplificada, programadores podem fazer
+o &lt;strong&gt;code review&lt;/strong&gt; de outros mais facilmente. Dessa forma, mais e mais pessoas terão a capacidade de avaliar se o que está sendo produzido é feito da melhor forma.&lt;/p&gt;
+
+&lt;h4 id=&quot;curva-de-aprendizagem&quot;&gt;Curva de aprendizagem&lt;/h4&gt;
+
+&lt;p&gt;A curva de aprendizagem entre os sistemas e tecnologias envolvidos é reduzida e as pessoas podem
+evoluir mais rapidamente no conhecimento do código gerado e aumentar a produtividade.&lt;/p&gt;
+
+&lt;p&gt;A comunidade pode apoiar facilmente os novos profissionais e uma maior quantidade
+de cursos e treinamentos estarão disponíveis para apoiar a evolução de um time em
+formação.&lt;/p&gt;
+
+&lt;h4 id=&quot;a-linguagem-é-bem-difundida&quot;&gt;A linguagem é bem difundida&lt;/h4&gt;
+
+&lt;p&gt;Se existe tecnologia em diversos meios com a mesma linguagem, é bem provável que
+exista um maior numero de pessoas que a conheçam bem. Isso é um aliado forte no
+momento de montar um time de desenvolvedores.&lt;/p&gt;
+
+&lt;p&gt;Contratar novos profissionais, quando o produto evoluir e crescer, pode ser um
+desafio. Saber que a tecnologia é amplamente conhecida facilita para as equipes
+de recrutamento captar pessoas para o time em crescimento.&lt;/p&gt;
+
+&lt;h4 id=&quot;existe-muita-coisa-pronta&quot;&gt;Existe muita coisa pronta&lt;/h4&gt;
+
+&lt;p&gt;Com a mesma linguagem, a quantidade de módulos e códigos prontos disponíveis nos
+repositórios na internet aumenta significativamente a cada dia. Isso pode significar
+um aumento de produtividade para iniciar seu projeto e mais velocidade nas entregas.&lt;/p&gt;
+
+&lt;p&gt;O uso de repositórios como o &lt;a href=&quot;https://www.npmjs.com&quot;&gt;NPM&lt;/a&gt; torna simples utilizar novos
+módulos nas aplicações.&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-xs-2&quot;&gt;&lt;/div&gt;
+  &lt;div class=&quot;col-xs-8 text-center&quot;&gt;
+    &lt;img src=&quot;/assets/img/posts/js_back_front_joke.jpg&quot; alt=&quot;Tudo javascript&quot; class=&quot;img-responsive&quot; style=&quot;width:100%; max-width:400px&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-xs-2&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;desvantagens&quot;&gt;Desvantagens&lt;/h3&gt;
+
+&lt;h4 id=&quot;a-linguagem-é-sempre-a-mesma-1&quot;&gt;A linguagem é sempre a mesma&lt;/h4&gt;
+
+&lt;p&gt;Você deve estar se perguntando: “Mas isso não é uma vantagem?”. Nesse caso, existem dois
+lados da moeda. A falsa visão de que, por ser a mesma linguagem, a tecnologia é a mesma
+pode causar um risco aos projetos.&lt;/p&gt;
+
+&lt;p&gt;Afinal, um programador de aplicação “front-end” tem um foco de pensamento e raciocínio
+diferente do programador de “back-end” que tem um foco diferente de como armazenar
+informações e deveria ter apoio de conhecedores do banco de dados escolhido.&lt;/p&gt;
+
+&lt;h4 id=&quot;a-linguagem-é-bem-difundida-e-existe-muita-coisa-pronta&quot;&gt;A linguagem é bem difundida e existe muita coisa pronta&lt;/h4&gt;
+
+&lt;p&gt;Agrupei essas duas vantagens para apresentar o risco que ambas podem gerar em um
+projeto novo.&lt;/p&gt;
+
+&lt;p&gt;A facilidade de encontrar conhecimento e módulos prontos gera o risco de contratar
+pessoas que apenas sabem utilizar os recursos prontos e não tem conhecimento para
+desenvolver a solução da melhor forma.&lt;/p&gt;
+
+&lt;p&gt;Alguns profissionais criam aplicações “do zero”, sem que eles escrevam realmente
+uma linha de código voltada para o produto, possuem mais de 3500 arquivos.&lt;/p&gt;
+
+&lt;p&gt;Ao invés de discorrer sobre o tema de forma aprofundada (pois sei que esse assunto
+é polêmico), segue duas referências interessantes para estudo que podem exemplificar
+bem como isso pode estar afetando a comunidade.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/&quot;&gt;NPM : Have we forgotten how to program?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/kA4-b7hvWhg&quot;&gt;Why Code in Node.js often gets Rejected by SoundCloud&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;dependência&quot;&gt;Dependência&lt;/h4&gt;
+
+&lt;p&gt;A escolha de uma pilha baseada na mesma linguagem normalmente inclui a utilização
+de frameworks. Isso é natural, o MEAN é um caso desses, pois utiliza o Express.&lt;/p&gt;
+
+&lt;p&gt;Os envolvidos no desenvolvimento do projeto acabam por ficar dependentes do uso
+de determinados recursos e acabam restringindo o uso da tecnologia como um todo.
+Muitas vezes estas restrições são agravadas quando novas versões do framework são
+lançadas e a aplicação precisa de refactorings para utilizar o que é novo.&lt;/p&gt;
+
+&lt;p&gt;A dependência pode ficar ainda mais evidente quando um framework para de ser
+desenvolvido e as aplicações continuam a ser utilizadas. Mudanças futuras terão um
+débito técnico que nunca poderão pagar sem reescrever todo o código.&lt;/p&gt;
+
+&lt;h5 id=&quot;é-muita-coisa-para-um-único-profissional&quot;&gt;É muita coisa para um único profissional&lt;/h5&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-xs-2&quot;&gt;&lt;/div&gt;
+  &lt;div class=&quot;col-xs-8 text-center&quot;&gt;
+    &lt;img src=&quot;/assets/img/posts/MEAN-Stack-Expertise.jpg&quot; alt=&quot;Não é pouca coisa&quot; class=&quot;img-responsive&quot; style=&quot;width:100%; max-width:400px&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-xs-2&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h2&gt;
+
+&lt;p&gt;Considerando os pontos acima, acredito que utilizar recursos como o MEAN é vantajoso
+principalmente para profissionais ou empresas que pretendem provar um conceito, e que, após um resultado positivo, se preparem para mitigar os riscos e construir, não apenas
+uma aplicação escalável, mas formas de mitigar os riscos gerados por essa escolha
+dentro de seus ambientes.&lt;/p&gt;</content><author><name>Juliano Marcon</name><email>dongg.liang#gmail.com</email></author><category term="Cliente" /><category term="Gestão" /><summary type="html">Vejo que atualmente muito se fala sobre MEAN Stack. Em resumo é uma pilha de tecnologias para desenvolvimento web baseada em JavaScript. Não pretendo discutir se a linguagem é a melhor. Vou apresentar as vantagens e desvantagens de basear todo o ambiente em uma única linguagem.</summary></entry><entry><title type="html">Outsourcing: Riscos e Oportunidades</title><link href="/posts/2016/03/outsourcing-riscos-e-oportunidades/" rel="alternate" type="text/html" title="Outsourcing: Riscos e Oportunidades" /><published>2016-03-25T17:26:38+00:00</published><updated>2016-03-25T17:26:38+00:00</updated><id>/posts/2016/03/outsourcing-riscos-e-oportunidades</id><content type="html" xml:base="/posts/2016/03/outsourcing-riscos-e-oportunidades/">&lt;p&gt;O Outsourcing é uma pratica de terceirização através da aquisição de bens e serviços de fornecedores externos. Assim, em tecnologia, é possível ver empresas subcontrantando um ou mais fornecedores para execução de serviços ou até mesmo um processo completo de negócio.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;vantagens&quot;&gt;Vantagens&lt;/h3&gt;
+
+&lt;p&gt;Terceirizar parcialmente ou totalmente uma área de tecnologia pode trazer alguns benefícios evidentes e, muitas vezes, de curto prazo em relação ao serviço prestado antes da contratação.&lt;/p&gt;
+
+&lt;h4 id=&quot;foco&quot;&gt;Foco&lt;/h4&gt;
+
+&lt;p&gt;A abstração das diversas dificuldades de gestão causados por uma equipe interna pode permitir os profissionais da alta gestão ter maior foco no direcionamento da empresa e ter um pensamento mais estratégico do que ações de &lt;strong&gt;como&lt;/strong&gt; resolver os problemas.&lt;/p&gt;
+
+&lt;h4 id=&quot;redução-de-custos&quot;&gt;Redução de Custos&lt;/h4&gt;
+
+&lt;p&gt;Manter um funcionário é mais caro do que contratar uma empresa de outsourcing. Os custos operacionais de contratação, treinamento, espaço, ferias e tantos outros benefícios aplicados pela &lt;a href=&quot;http://www.planalto.gov.br/ccivil_03/decreto-lei/Del5452.htm&quot;&gt;CLT&lt;/a&gt; encarecem significativamente manter um funcionário contratado para um serviço.&lt;/p&gt;
+
+&lt;p&gt;Para as empresas contratantes é vantajoso não possuir esse vínculo direto com as pessoas e permite que, caso seja necessário, substituir as pessoas que não estão atendendo as necessidades de forma mais rápida.&lt;/p&gt;
+
+&lt;h4 id=&quot;escalabilidade&quot;&gt;Escalabilidade&lt;/h4&gt;
+&lt;p&gt;Todo o processo de recrutamento e seleção é caro e demorado. Dependendo da velocidade de crescimento do produto, a necessidade de possuir mais pessoas para apoiar o desenvolvimento em um curto prazo é um grande desafio para empresas em expansão.&lt;/p&gt;
+
+&lt;p&gt;As empresas de outsourcing podem facilitar esse processo pois em alguns casos possuem um ritmo diferente de alocação de recursos. A contratação de um novo funcionário para uma empresa terceirizada ocorre de forma muito mais rápida do que na maioria de seus clientes.&lt;/p&gt;
+
+&lt;h4 id=&quot;simplificação&quot;&gt;Simplificação&lt;/h4&gt;
+&lt;p&gt;Em muitas empresas os processos estabelecidos podem causar uma certa morosidade no atendimento das necessidades principais de manutenção de produtos de tecnologia.&lt;/p&gt;
+
+&lt;p&gt;Empresas terceirizadas possuem um fluxo de atendimento mais enxuto que pode simplificar o processo de atendimento em situações de emergência. Por não estar incluída diretamente nas restrições das empresas que contratam seus serviços, as empresas de outsourcing conseguem atender aos requisitos através de processos mais simples.&lt;/p&gt;
+
+&lt;h4 id=&quot;velocidade&quot;&gt;Velocidade&lt;/h4&gt;
+&lt;p&gt;Normalmente, ao inicio de uma contratação de outsourcing, as entregas passam a se tornar mais rápidas pois a ação acaba por movimentar um conjunto de pessoas para atender as defasagens e oportunidades mais necessárias em um curto espaço de tempo. Ao serem contratadas as empresas identificam oportunidades de melhoria que podem ser utilizadas para a evolução do processo como todo.&lt;/p&gt;
+
+&lt;h3 id=&quot;desvantagens&quot;&gt;Desvantagens&lt;/h3&gt;
+&lt;p&gt;Nem tudo são flores em um procedimento de terceirização de trabalhos. Muitas dificuldades começam a aparecer depois de alguns meses trabalhando nesse modelo.&lt;/p&gt;
+
+&lt;h4 id=&quot;conhecimento-perdido&quot;&gt;Conhecimento perdido&lt;/h4&gt;
+&lt;p&gt;A contratação de uma equipe em outsourcing pode trazer ganhos rápidos, mas normalmente os contratos tem tempo definido e, em momento de renegociação, acordos são quebrados.&lt;/p&gt;
+
+&lt;p&gt;O conhecimento gerado nas pessoas envolvidas nas entregas e projetos ficam vinculadas com as empresas de outsourcing e a empresa contratante perde um bem valioso: O conhecimento.&lt;/p&gt;
+
+&lt;p&gt;O risco ocorre da mesma forma com profissionais da empresa? Sim; Mas é fato que as ações necessárias para reduzir este &lt;a href=&quot;https://pt.wikipedia.org/wiki/Rotatividade_de_pessoal&quot;&gt;turnover&lt;/a&gt; ficam na própria empresa.&lt;/p&gt;
+
+&lt;h4 id=&quot;gestão-impessoal&quot;&gt;Gestão impessoal&lt;/h4&gt;
+&lt;p&gt;Durante um contrato de outsourcing a gestão deve sempre ficar com um funcionário da empresa de outsourcing. Responder diretamente a um funcionário da empresa contratante pode gerar vínculos empregatícios independente do contrato firmado com a empresa.&lt;/p&gt;
+
+&lt;p&gt;Isso acaba tornando o processo de gestão das pessoas e tarefas algo extremamente burocrático e impessoal. Todo feedback sobre a evolução de um funcionário terceirizado deve ser feito ao seu gestor direto na empresa.&lt;/p&gt;
+
+&lt;h4 id=&quot;comunicação-mais-lenta&quot;&gt;Comunicação mais lenta&lt;/h4&gt;
+&lt;p&gt;Normalmente ações de outsourcing ocorrem em ambientes físicos separados e toda comunicação deve ser muito bem documentada para evitar mudanças inesperadas.&lt;/p&gt;
+
+&lt;p&gt;Uma ligação provavelmente não será atendida sem um email documentando o processo, uma reunião não será considerada sem uma ata revisada pelos dois lados, pedir de informações do especialista demanda um processo de alocação de horas.&lt;/p&gt;
+
+&lt;h4 id=&quot;resistência-a-mudanças&quot;&gt;Resistência a mudanças&lt;/h4&gt;
+&lt;p&gt;Com a desculpa de garantir a entrega do que foi contratado, as empresas de outsourcing se tornam resistentes a mudanças das necessidades dos clientes após o inicio dos trabalhos.&lt;/p&gt;
+
+&lt;p&gt;Precisa dar um direcionamento para uma área terceirizada ou mudar parcialmente o escopo do produto que esta criando? Bom, acho melhor começar a trabalhar nos aditivos de contrato e revalidação financeira.&lt;/p&gt;
+
+&lt;p&gt;As empresas de outsourcing precisam garantir que o escopo mude muito pouco para garantir que os valores e recursos investidos gerem o lucro esperado. Mudanças durante o projeto, podem causar impactos na entrega e custos maiores mesmo que todos os envolvidos estejam de acordo da necessidade daquela implementação.&lt;/p&gt;
+
+&lt;h4 id=&quot;segurança&quot;&gt;Segurança&lt;/h4&gt;
+&lt;p&gt;Por mais que a empresa contratada seja reconhecida e tenha ótima reputação de mercado, a segurança é um dos fatores críticos a ser considerado ao contratar serviços terceirizados de tecnologia.&lt;/p&gt;
+
+&lt;p&gt;Os processos envolvidos em garantir que um terceiro possa fazer parte do grupo de desenvolvimento de novas tecnologias, acessar servidores produtivos, corrigir uma falha de forma urgente, etc. Podem tornar as novas contratações demoradas.&lt;/p&gt;
+
+&lt;h4 id=&quot;a-escolha-por-preço&quot;&gt;A escolha por preço&lt;/h4&gt;
+&lt;p&gt;A forma de escolher uma empresa para atender uma demanda em outsourcing pode ser um grande risco para o projeto. Um profissional deve receber a atenção necessária para atender os principais custos implícitos motivacionais como:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Evolução e Aposentadoria&lt;/li&gt;
+  &lt;li&gt;Horas Extras&lt;/li&gt;
+  &lt;li&gt;Desenvolvimento pessoal&lt;/li&gt;
+  &lt;li&gt;Treinamentos e Qualificações&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Não possuir alguns desses itens são fatores desmotivadores para os profissionais envolvidos e, no caso do outsourcing, muitas vezes esses mesmos fatores são deixados de lado.&lt;/p&gt;
+
+&lt;p&gt;Não é difícil compreender como a &lt;a href=&quot;https://pt.wikipedia.org/wiki/Hierarquia_de_necessidades_de_Maslow&quot;&gt;pirâmide de Maslow&lt;/a&gt; impacta significativamente a qualidade das entregas e com a terceirização a gestão do impacto pela empresa contratante é de um teor altamente complexo.&lt;/p&gt;
+
+&lt;p&gt;Quem você quer que faça o seu trabalho fundamental, patriotas ou mercenários?&lt;/p&gt;
+
+&lt;h4 id=&quot;nem-tudo-encaixa&quot;&gt;Nem tudo encaixa&lt;/h4&gt;
+&lt;p&gt;Em grandes projetos ou processos que demandam a contratação de mais de uma empresa de outsourcing a conexão entre as entregas e procedimentos de todos é algo de extrema complexidade.&lt;/p&gt;
+
+&lt;p&gt;Em alguns casos, a concorrência entre as empresas impede que informações sejam transmitidas diretamente e o cliente passa a ser um centralizador de informações desnecessárias entre as etapas.&lt;/p&gt;
+
+&lt;p&gt;O conhecimento descentralizado e espalhado torna mais complexo a visão de evolução dos produtos atuais.&lt;/p&gt;
+
+&lt;h3 id=&quot;praticas-comuns-no-brasil&quot;&gt;Praticas comuns no Brasil&lt;/h3&gt;
+
+&lt;p&gt;É possível ver no nosso País cenários de outsourcing que acabam tornando a pratica um grande risco para o negócio. É obvio que as empresas que prestam os serviços visam o lucro próprio e o bem comum dos produtos e serviços prestados pela sua contratante é secundário.&lt;/p&gt;
+
+&lt;h4 id=&quot;evolução-despreparada&quot;&gt;Evolução despreparada&lt;/h4&gt;
+&lt;p&gt;Diante da necessidade de vender o serviço, mesmo não tendo o recurso com o nível necessário para as atividades. Alguns funcionários são promovidos para se enquadrar nas necessidades do cliente.&lt;/p&gt;
+
+&lt;p&gt;Em diversas situações esses profissionais não estão preparados para assumir uma nova responsabilidade e não possui o conhecimento e experiência necessária para atender as expectativas do cliente.&lt;/p&gt;
+
+&lt;p&gt;Isso causa um atraso significativo nas entregas. Dependendo do contrato, o valor ganho no processo vale o risco. Mas é fácil identificar que quem sai perdendo é o cliente final.&lt;/p&gt;
+
+&lt;h4 id=&quot;vende-primeiro-pensa-depois&quot;&gt;Vende primeiro, pensa depois&lt;/h4&gt;
+&lt;p&gt;Para as empresas de outsourcing, para deixar os custos mais enxutos, a venda ocorre antes de possuir todas as pessoas necessárias para atender aos projetos em que se encontram.&lt;/p&gt;
+
+&lt;p&gt;As empresas atendidas acabam por receber os serviços prestados por pessoas escolhidas as pressas e que geram um risco operacional enorme para os envolvidos.&lt;/p&gt;</content><author><name>Juliano Marcon</name><email>dongg.liang#gmail.com</email></author><category term="Gestão" /><category term="Opnião" /><summary type="html">O Outsourcing é uma pratica de terceirização através da aquisição de bens e serviços de fornecedores externos. Assim, em tecnologia, é possível ver empresas subcontrantando um ou mais fornecedores para execução de serviços ou até mesmo um processo completo de negócio.</summary></entry><entry><title type="html">Node e Cassandra - Parte 3 : Criando uma API Simples</title><link href="/posts/2016/03/node-e-cassandra-parte3-criando-uma-api-simples/" rel="alternate" type="text/html" title="Node e Cassandra - Parte 3 : Criando uma API Simples" /><published>2016-03-22T20:19:31+00:00</published><updated>2016-03-22T20:19:31+00:00</updated><id>/posts/2016/03/node-e-cassandra-parte3-criando-uma-api-simples</id><content type="html" xml:base="/posts/2016/03/node-e-cassandra-parte3-criando-uma-api-simples/">&lt;p&gt;Este é o terceiro e último de três posts sobre como criar uma API utilizando o
+&lt;a href=&quot;https://nodejs.org&quot;&gt;NodeJS&lt;/a&gt; e o &lt;a href=&quot;https://cassandra.apache.org&quot;&gt;Apache Cassandra&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Nos posts anteriores deixamos o ambiente parcialmente preparado e criamos a
+base de dados que usaremos no cassandra.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Então vamos criar a aplicação dentro da pasta&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;cassandra_node &amp;gt; node &amp;gt; api&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Vamos criar nosso arquivo &lt;strong&gt;package.json&lt;/strong&gt; que definirá nossa aplicação e suas
+dependências com o seguinte conteúdo.&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;node-api-demo&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;server.js&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;dependencies&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;express&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;~4.9.0&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;body-parser&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;~1.8.1&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;async&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;1.5.2&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;cassandra-driver&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;~3.0.1&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Inicie um arquivo &lt;strong&gt;server.js&lt;/strong&gt; e insira o conteúdo abaixo:&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;cassandra&lt;/span&gt;  &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;cassandra-driver&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;express&lt;/span&gt;    &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;express&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;app&lt;/span&gt;        &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;express&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;bodyParser&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;body-parser&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Configurar o App para usar o body-parser&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;use&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;bodyParser&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;urlencoded&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;extended&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;}));&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;use&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;bodyParser&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Definindo a porta padrão (Lembre do docker-compose.yml)&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;port&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;process&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;env&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;PORT&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;3000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Criando nosso cliente de conexão.&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;client&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;cassandra&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Client&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;contactPoints&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;192.168.99.100&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
+  &lt;span class=&quot;na&quot;&gt;keyspace&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;demo&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Conectando no banco de dados&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;client&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;connect&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+
+
+&lt;span class=&quot;c1&quot;&gt;// Definindo a rotas para nossa API&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;router&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;express&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;Router&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;router&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;get&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;req&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;message&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Wohooo!!! Bem vindo a nossa API&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;router&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;post&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;/login&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;req&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;email&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;req&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;email&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;pass&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;req&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;password&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+  &lt;span class=&quot;nx&quot;&gt;client&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;execute&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;SELECT email, password FROM users &lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;
+    &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;WHERE email = '&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;email&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;send&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+      &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;rows&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
+      &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;message&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Usuário ou senha inválidos &lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+      &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;password&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;pass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;c1&quot;&gt;//Se tentar executar um WHERE diretamente no Cassandra ele apresentará&lt;/span&gt;
+        &lt;span class=&quot;c1&quot;&gt;//um erro. Não criamos um índice para a coluna password.&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;message&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Usuário ou senha inválidos &lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+      &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;message&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;email&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;router&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;post&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;/register&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;req&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;email&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;req&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;email&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;pass&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;req&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;password&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;params&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;email&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;pass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
+
+  &lt;span class=&quot;nx&quot;&gt;client&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;execute&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;INSERT INTO users (email, password) values (?, ?)&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;params&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;send&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+      &lt;span class=&quot;nx&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;message&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Cadastrado com sucesso!&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;router&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;get&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;/first&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;req&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;client&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;execute&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;SELECT email, password FROM users LIMIT 1&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;send&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;err&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+      &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;result&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;rows&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;];&lt;/span&gt;
+      &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;message&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Nenhum encontrado &lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;message&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;user&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;email&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;//Registrar nossas rotas com um prefixo api&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;use&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;/api&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;router&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+
+&lt;span class=&quot;c1&quot;&gt;//Iniciando o servidor&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;app&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;listen&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;port&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;A Mágica acontece na porta &lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;port&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Para que a aplicação node seja iniciada, vamos criar o arquivo &lt;strong&gt;start.sh&lt;/strong&gt; na pasta
+api (junto com o &lt;em&gt;server.js&lt;/em&gt;) com o conteúdo abaixo:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;#!\bin\bash&lt;/span&gt;
+
+&lt;span class=&quot;c&quot;&gt;#Instalar as dependências&lt;/span&gt;
+npm &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt;
+
+&lt;span class=&quot;c&quot;&gt;#Iniciar a aplicação pelo packages.json&lt;/span&gt;
+npm start
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Assim, vamos iniciar também nossa maquina docker com o comando:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;docker-compose up &lt;span class=&quot;nt&quot;&gt;-d&lt;/span&gt; nodejs
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Utilize um utilitário como o &lt;a href=&quot;https://www.getpostman.com/&quot;&gt;Postman&lt;/a&gt; ou o
+&lt;a href=&quot;http://www.telerik.com/fiddler&quot;&gt;Fiddler&lt;/a&gt; para fazer chamadas na sua API nos
+endereços:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://192.168.99.100:3000/api/&quot;&gt;http://192.168.99.100:3000/api/&lt;/a&gt; (GET)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://192.168.99.100:3000/api/first&quot;&gt;http://192.168.99.100:3000/api/first&lt;/a&gt; (GET)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://192.168.99.100:3000/api/register&quot;&gt;http://192.168.99.100:3000/api/register&lt;/a&gt; (POST)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://192.168.99.100:3000/api/login&quot;&gt;http://192.168.99.100:3000/api/login&lt;/a&gt; (POST)&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Juliano Marcon</name><email>dongg.liang#gmail.com</email></author><category term="Node" /><category term="API" /><summary type="html">Este é o terceiro e último de três posts sobre como criar uma API utilizando o NodeJS e o Apache Cassandra.</summary></entry><entry><title type="html">Node e Cassandra - Parte 2 : O mínimo do cassandra</title><link href="/posts/2016/03/node-e-cassandra-parte2-o-minimo-do-cassandra/" rel="alternate" type="text/html" title="Node e Cassandra - Parte 2 : O mínimo do cassandra" /><published>2016-03-21T20:19:15+00:00</published><updated>2016-03-21T20:19:15+00:00</updated><id>/posts/2016/03/node-e-cassandra-parte2-o-minimo-do-cassandra</id><content type="html" xml:base="/posts/2016/03/node-e-cassandra-parte2-o-minimo-do-cassandra/">&lt;p&gt;Este é o segundo de três posts sobre como criar uma API utilizando o
+&lt;a href=&quot;https://nodejs.org&quot;&gt;NodeJS&lt;/a&gt; e o &lt;a href=&quot;https://cassandra.apache.org&quot;&gt;Apache Cassandra&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Não vou discutir qual é o banco mais indicado para seu projeto, deixo aqui alguns
+benchmarks encontrados na internet para que você possa tomar a decisão.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.planetcassandra.org/nosql-performance-benchmarks/&quot;&gt;Planet Cassandra&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mongodb.com/blog/post/high-performance-benchmarking-mongodb-and-nosql-systems&quot;&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jaxenter.com/evaluating-nosql-performance-which-database-is-right-for-your-data-107481.html&quot;&gt;JaxEnter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Neste momento, vamos preparar nossa base para receber os dados de nossa API. Para
+nosso exemplo apenas armazenaremos dados simples de email e senha. Apenas focado
+em uma autenticação simples.&lt;/p&gt;
+
+&lt;p&gt;Com o Docker do Cassandra rodando como descrito no
+&lt;a href=&quot;/posts/2016/03/node-e-cassandra-parte1-ambiente/&quot;&gt;artigo anterior&lt;/a&gt;, vamos agora nos conectar
+na base de dados.&lt;/p&gt;
+
+&lt;p&gt;Se você criou as pastas como indicado, vamos iniciar o prompt do cassandra em uma
+maquina docker temporária, execute o comando abaixo:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;docker run &lt;span class=&quot;nt&quot;&gt;-it&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;--link&lt;/span&gt; cassandranode_cassandra_1:cassandra &lt;span class=&quot;nt&quot;&gt;--rm&lt;/span&gt; cassandra sh &lt;span class=&quot;nt&quot;&gt;-c&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'exec cqlsh &quot;$CASSANDRA_PORT_9042_TCP_ADDR&quot;'&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;O termo  &lt;strong&gt;cassandranode_cassandra_1&lt;/strong&gt; encontrado no comando acima se refere
+ao nome do Docker que esta rodando o cassandra no Kitematic.&lt;/p&gt;
+
+&lt;p&gt;Desta forma, deve ver o prompt do cassandra rodando no terminal:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cqlsh&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;A primeira coisa que faremos é criar o Keyspace. O Keyspace do cassandra é como
+se fosse o Schema do banco de dados. É nesse espaço que criaremos nossa tabela
+depois.&lt;/p&gt;
+
+&lt;p&gt;Vamos criar o Keyspace:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cqlsh&amp;gt; CREATE KEYSPACE demo
+   ... WITH REPLICATION &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+   ... &lt;span class=&quot;s1&quot;&gt;'class'&lt;/span&gt; : &lt;span class=&quot;s1&quot;&gt;'SimpleStrategy'&lt;/span&gt;,
+   ... &lt;span class=&quot;s1&quot;&gt;'replication_factor'&lt;/span&gt; : 1
+   ... &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Os parâmetros passados para replicação não serão tratados aqui.&lt;/p&gt;
+
+&lt;p&gt;Verifique se o Keyspace foi criado:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cqlsh&amp;gt; DESC KEYSPACES&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+demo   system_schema   system_auth   ...
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Defina o Keyspace que vamos trabalhar agora.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cqlsh&amp;gt; USE demo&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;E crie nossa tabela&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cqlsh:demo&amp;gt; CREATE TABLE &lt;span class=&quot;nb&quot;&gt;users&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;
+        ... email text,
+        ... password text,
+        ... PRIMARY KEY &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;email&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+        ... &lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Criamos nossa tabela, para ver que tudo esta no banco execute o comando:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;cqlsh:demo&amp;gt; DESC SCHEMA&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Desta forma deixamos nosso banco pronto para nosso exemplo de API em NodeJS
+que será finalizado no próximo artigo.&lt;/p&gt;</content><author><name>Juliano Marcon</name><email>dongg.liang#gmail.com</email></author><category term="Node" /><category term="Cassandra" /><category term="NoSQL" /><summary type="html">Este é o segundo de três posts sobre como criar uma API utilizando o NodeJS e o Apache Cassandra.</summary></entry><entry><title type="html">Node e Cassandra - Parte 1 : Ambiente</title><link href="/posts/2016/03/node-e-cassandra-parte1-ambiente/" rel="alternate" type="text/html" title="Node e Cassandra - Parte 1 : Ambiente" /><published>2016-03-20T20:19:02+00:00</published><updated>2016-03-20T20:19:02+00:00</updated><id>/posts/2016/03/node-e-cassandra-parte1-ambiente</id><content type="html" xml:base="/posts/2016/03/node-e-cassandra-parte1-ambiente/">&lt;p&gt;Este é o primeiro de três posts sobre como criar uma API utilizando o
+&lt;a href=&quot;https://nodejs.org&quot;&gt;NodeJS&lt;/a&gt; e o &lt;a href=&quot;https://cassandra.apache.org&quot;&gt;Apache Cassandra&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Vejo uma grande parte dos textos falando sobre a dupla de NodeJS com o
+&lt;a href=&quot;https://www.mongodb.org&quot;&gt;MongoDB&lt;/a&gt;. Mas o Cassandra pode ser uma alternativa para
+alguns tipos de aplicações que demandam outros níveis de acessos de escrita e
+leitura.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;instalando-o-ambiente&quot;&gt;Instalando o ambiente&lt;/h3&gt;
+
+&lt;p&gt;Primeiro, estou utilizando o OSX mas, provavelmente, você terá pouco trabalho
+para adaptar o que vamos ter aqui para outros sistemas.&lt;/p&gt;
+
+&lt;p&gt;Para abstrair um pouco vamos utilizar o &lt;a href=&quot;http://www.docker.com&quot;&gt;Docker&lt;/a&gt; e deixar
+um pouco mais automático com o recurso “docker-compose”.&lt;/p&gt;
+
+&lt;p&gt;No OSX e no Windows, o pessoal do Docker adquiriu o
+&lt;a href=&quot;https://www.kitematic.com&quot;&gt;Kitematic&lt;/a&gt; que após instalado vai lhe fornecer
+todos os requisitos necessários para criar nosso ambiente.&lt;/p&gt;
+
+&lt;h4 id=&quot;preparando-os-arquivos&quot;&gt;Preparando os arquivos&lt;/h4&gt;
+
+&lt;p&gt;Vamos começar simplesmente criando uma arvore de diretórios que vai nos apoiar
+nesse projeto.&lt;/p&gt;
+
+&lt;p&gt;Crie a seguinte estrutura na sua maquina:&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;cassandra_docker&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;cassandra&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;node&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;api&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;criando-a-maquina-do-cassandra&quot;&gt;Criando a maquina do Cassandra&lt;/h4&gt;
+
+&lt;p&gt;Dentro da pasta do cassandra vamos criar o arquivo de nome &lt;strong&gt;Dockerfile&lt;/strong&gt; que vai
+informar ao docker como criar a maquina.&lt;/p&gt;
+
+&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;# Partir do docker inicial do cassandra no DockerHub&lt;/span&gt;
+&lt;span class=&quot;no&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cassandra&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:latest&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Bem simples!&lt;/p&gt;
+
+&lt;h4 id=&quot;criando-a-maquina-do-nodejs&quot;&gt;Criando a maquina do NodeJS&lt;/h4&gt;
+
+&lt;p&gt;Dentro da pasta node crie mais um arquivo com o node de &lt;strong&gt;Dockerfile&lt;/strong&gt; para
+configurar o docker que vai rodar o node.&lt;/p&gt;
+
+&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;# Partir do docker inicial do node do DockerHub&lt;/span&gt;
+&lt;span class=&quot;no&quot;&gt;FROM&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;node&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:latest&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;# Criar a pasta onde a aplicação vai rodar&lt;/span&gt;
+&lt;span class=&quot;no&quot;&gt;RUN&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;mkdir&lt;/span&gt; &lt;span class=&quot;sr&quot;&gt;/api
+
+# Definir a pasta criada como a pasta de trabalho
+WORKDIR /&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;api&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;# Executar a instalação das dependecias&lt;/span&gt;
+&lt;span class=&quot;no&quot;&gt;ENTRYPOINT&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;/bin/bash&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;start.sh&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Os arquivos da aplicação serão criados durante o ultimo POST desta série. Mas vamos
+deixar algo preparado aqui.&lt;/p&gt;
+
+&lt;h4 id=&quot;configurando-a-composição&quot;&gt;Configurando a composição&lt;/h4&gt;
+
+&lt;p&gt;Crie na pasta raiz (cassandra_docker) um arquivo com o nome “docker-compose.yml”
+que vai receber a configuração detalhada de como o dockers vão ser criados e
+como eles vão se conectar.&lt;/p&gt;
+
+&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;ss&quot;&gt;cassandra:
+  build: &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cassandra&lt;/span&gt;
+  &lt;span class=&quot;ss&quot;&gt;expose:
+    &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;27017&quot;&lt;/span&gt;
+  &lt;span class=&quot;ss&quot;&gt;ports:
+  &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;7199:7199&quot;&lt;/span&gt;
+  &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;7000:7000&quot;&lt;/span&gt;
+  &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;7001:7001&quot;&lt;/span&gt;
+  &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;9160:9160&quot;&lt;/span&gt;
+  &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;9042:9042&quot;&lt;/span&gt;
+
+&lt;span class=&quot;ss&quot;&gt;nodejs:
+  build: &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;node&lt;/span&gt;
+  &lt;span class=&quot;ss&quot;&gt;volumes:
+    &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;./node/api:/api&quot;&lt;/span&gt;
+  &lt;span class=&quot;ss&quot;&gt;expose:
+    &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;3000&quot;&lt;/span&gt;
+  &lt;span class=&quot;ss&quot;&gt;ports:
+    &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;3000:3000&quot;&lt;/span&gt;
+  &lt;span class=&quot;ss&quot;&gt;links:
+    &lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;cassandra:cassandra&quot;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;iniciando-as-maquinas&quot;&gt;Iniciando as maquinas&lt;/h3&gt;
+
+&lt;p&gt;Execute o comando abaixo e aguarde a maquina do cassandra subir:&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;docker-compose up &lt;span class=&quot;nt&quot;&gt;-d&lt;/span&gt; cassandra
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;É possível iniciar o Kitematic e ver as maquinas criadas. Apenas a maquina do
+cassandra estará rodando e estará acessível pelo endereço 192.168.99.100:27017 se
+quiser utilizar uma GUI para acessar o banco.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;O IP &lt;strong&gt;&lt;em&gt;192.168.99.100&lt;/em&gt;&lt;/strong&gt; é atribuído para a maquina virtual (virtualbox) criada como
+docker-machine pelo Kitematic.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>Juliano Marcon</name><email>dongg.liang#gmail.com</email></author><category term="Node" /><category term="Cassandra" /><category term="Docker" /><category term="Infraestrutura" /><summary type="html">Este é o primeiro de três posts sobre como criar uma API utilizando o NodeJS e o Apache Cassandra.</summary></entry><entry><title type="html">TI Bimodal : Uma questão de respeito</title><link href="/posts/2016/03/ti-bimodal-uma-questao-de-respeito/" rel="alternate" type="text/html" title="TI Bimodal : Uma questão de respeito" /><published>2016-03-19T20:18:14+00:00</published><updated>2016-03-19T20:18:14+00:00</updated><id>/posts/2016/03/ti-bimodal-uma-questao-de-respeito</id><content type="html" xml:base="/posts/2016/03/ti-bimodal-uma-questao-de-respeito/">&lt;p&gt;Agilidade é, com certeza, o termo mais citado quando o futuro é discutido em grandes empresas financeiras ou necessitando se reinventar no mundo da tecnologia.&lt;/p&gt;
+
+&lt;p&gt;A existência de um legado exige que as empresas foquem seus esforços em perfis distintos na gestão e investimento de seus recursos de tecnologia de informação.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;O Gartner define como:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A TI Bimodal é a prática de gerenciar separadamente dois modos coerentes de entrega de TI, um focado na estabilidade e outro focado na agilidade. &lt;strong&gt;O Modo1&lt;/strong&gt; é tradicional e sequencial enfatizando a segurança e a precisão. &lt;strong&gt;O Modo2&lt;/strong&gt; é exploratório e não linear pensando sempre em velocidade e agilidade.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;reference&quot;&gt;[Gartner](http://http://www.gartner.com/it-glossary/bimodal/)&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;As grandes companhias estão aplicando o modelo ou estão seriamente inclinadas a tentar o modelo bimodal. Arrisco afirmar que esse modelo acaba sendo aplicado naturalmente e implicitamente ao iniciar o processo de contratação de pessoas com a cultura de agilidade e as inserindo dentro dos ambientes corporativos.&lt;/p&gt;
+
+&lt;p&gt;O desafio neste modelo não está seriamente em coexistir os processos e projetos nos dois modelos. O grande risco a ser gerenciado na aplicação de uma estratégia bimodal é tratar o conflito cultural entre os dois mundos.&lt;/p&gt;
+
+&lt;p&gt;As pessoas que estão investindo seu tempo e esforços em crescer dentro do Modo2 focando em inovação, exploração, velocidade e agilidade se vêem com a responsabilidade e cobrança em dar uma nova visão da empresa para o mercado de forma extremamente rápida, ou seja, ciclos de entregas rápidas e constantes.&lt;/p&gt;
+
+&lt;p&gt;Os profissionais que têm seu foco no Modo1 sempre preocupados com um processo seguro, alta qualidade e precisão das mudanças aplicadas sempre garantindo que a empresa esteja 100% disponível a seus clientes possuem ciclos mais longos de entrega.&lt;/p&gt;
+
+&lt;p&gt;Quando existe a interação entre os dois modelos é que as coisas complicam. Os objetivos dos profissionais são, em muitas vezes, excludentes. E, principalmente, as cobranças de metas e resultados também ocorrem de forma diferente.&lt;/p&gt;
+
+&lt;p&gt;Gerir o conflito de interesses é o principal desafio dentro do modelo bimodal e a forma de lidar com essas diferenças não deve ser através da separação das demandas e sim pelo respeito entre os times.&lt;/p&gt;
+
+&lt;p&gt;A movimentação para um modelo de inovação com equipes separadas pode aparentar uma preferência da empresa pela inovação diante da operação. Isso pode causar um impacto negativo nas pessoas que trabalham melhor no Modo1 e que escolheram se dedicar a isso.&lt;/p&gt;
+
+&lt;p&gt;Em algumas situações, as equipes mais ágeis do Modo2 podem ficar indignadas com a cadência mais lenta de entregas do Modo1 e acabam por forçar a evolução através do desrespeito dos limites entre os Modos de trabalho.&lt;/p&gt;
+
+&lt;p&gt;Quando uma oportunidade de mudança de um processo de um produto aparece diante das equipes no Modo1 parecendo algo simples e a equipe do Modo2 avalia as mudanças nos diversos processos que esta oportunidade pode causar e que os impactos nos sistemas podem levar a um ciclo mais longo de entrega. O sentimento de incapacidade de mudança do time do Modo1 aparece rapidamente.&lt;/p&gt;
+
+&lt;p&gt;Equipes do Modo1 devem ter autonomia para fazer as experimentações necessárias para encontrar novas formas e produtos, mas é de extrema importância que essa mesma equipe &lt;strong&gt;respeite&lt;/strong&gt; a autonomia e&lt;/p&gt;
+
+&lt;p&gt;Ambas as partes devem respeitar seus pares em relação a evolução tecnológica da empresa e trabalharem juntos para construir um modelo de trabalho onde a negociação entre os times resulte em uma sincronização dos ciclos de entrega garantindo evolução contínua com grandes lançamentos em ciclos mais longos.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/posts/bimodal.png&quot; class=&quot;img-responsive&quot; alt=&quot;Bimodal IT cycles&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;É essencial que os times do Modo2 se preparem para um mundo de &lt;a href=&quot;https://pt.wikipedia.org/wiki/Internet_das_Coisas&quot;&gt;objetos conectados na internet&lt;/a&gt; a todo momento, a &lt;a href=&quot;https://en.wikipedia.org/wiki/Social_media_measurement&quot;&gt;monitoração da interação social&lt;/a&gt; de seu cliente diante da marca, disponibilização de produtos e serviços em canais que nem mesmo existem atualmente, identificação e segurança do usuário no mundo digital, computação em nuvem e os possíveis concorrentes que esses modelos podem trazer (&lt;a href=&quot;https://pt.wikipedia.org/wiki/Software_como_serviço&quot;&gt;SaaS&lt;/a&gt; e &lt;a href=&quot;https://pt.wikipedia.org/wiki/Plataforma_como_serviço&quot;&gt;PaaS&lt;/a&gt;), etc.&lt;/p&gt;
+
+&lt;p&gt;São diversas coisas que não necessariamente impactam a disponibilização dos serviços essenciais da empresa e que podem dar visibilidade e velocidade para as empresas dentro dos cenários digitais do futuro.&lt;/p&gt;
+
+&lt;p&gt;E eles devem compreender e respeitar que os serviços que eles consomem são o coração da empresa e o coração não deve falhar.&lt;/p&gt;</content><author><name>Juliano Marcon</name><email>dongg.liang#gmail.com</email></author><category term="DoJo" /><category term="Hackatons" /><category term="Liderança Corporativa" /><category term="Visão Corporativa" /><summary type="html">Agilidade é, com certeza, o termo mais citado quando o futuro é discutido em grandes empresas financeiras ou necessitando se reinventar no mundo da tecnologia.</summary></entry></feed>

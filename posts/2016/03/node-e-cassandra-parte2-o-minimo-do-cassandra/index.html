@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Node e Cassandra - Parte 2 : O mínimo do cassandra - Juliano Marcon</title>
+
+    <!-- Edit site and author settings in `_config.yml` to make the social details your own -->
+
+    <meta content="Juliano Marcon" property="og:site_name">
+    
+    <meta content="Node e Cassandra - Parte 2 : O mínimo do cassandra" property="og:title">
+    
+    
+    <meta content="article" property="og:type">
+    
+    
+    <meta content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+" property="og:description">
+    
+    
+    <meta content="/posts/2016/03/node-e-cassandra-parte2-o-minimo-do-cassandra/" property="og:url">
+    
+    
+    <meta content="2016-03-21T20:19:15+00:00" property="article:published_time">
+    <meta content="/about/" property="article:author">
+    
+    
+    <meta content="/assets/img/posts/cassandra.png" property="og:image">
+    
+    
+    
+    <meta content="Software" property="article:section">
+    
+    
+    
+    
+    <meta content="Node" property="article:tag">
+    
+    <meta content="Cassandra" property="article:tag">
+    
+    <meta content="NoSQL" property="article:tag">
+    
+    
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@">
+    <meta name="twitter:creator" content="@julianomarcon">
+    
+    <meta name="twitter:title" content="Node e Cassandra - Parte 2 : O mínimo do cassandra">
+    
+    
+    <meta name="twitter:url" content="/posts/2016/03/node-e-cassandra-parte2-o-minimo-do-cassandra/">
+    
+    
+    <meta name="twitter:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+">
+    
+    
+    <meta name="twitter:image:src" content="/assets/img/posts/cassandra.png">
+    
+
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta property="og:image" content="">
+    <link rel="shortcut icon" href="/assets/img/favicon/favicon.ico"
+        type="image/x-icon">
+    <link rel="apple-touch-icon" href="/assets/img/favicon/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72"
+        href="/assets/img/favicon/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="144x144"
+        href="/assets/img/favicon/apple-touch-icon-144x144.png">
+    <!-- Chrome, Firefox OS and Opera -->
+    <meta name="theme-color" content="#263959">
+    <!-- Windows Phone -->
+    <meta name="msapplication-navbutton-color" content="#263959">
+    <!-- iOS Safari -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="#263959">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=PT+Serif:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- href="/assets/fonts/font-awesome/css/font-awesome.min.css"> -->
+    <!-- Styles -->
+    <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+<body>
+
+  <div class="wrapper">
+    <aside class="sidebar">
+  <header>
+    <div class="about">
+      <div class="cover-author-image">
+        <a href="/"><img src="/assets/img/profile.jpg" alt="Juliano Marcon"></a>
+      </div>
+      <div class="author-name">Juliano Marcon</div>
+      
+      
+      
+    </div>
+  </header> <!-- End Header -->
+  <footer>
+    <section class="contact">
+      <h3 class="contact-title">SOCIAL</h3>
+      <ul>
+        
+          <li><a href="https://twitter.com/julianomarcon" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+        
+        
+          <li><a href="https://facebook.com/jmarcon.net" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+        
+        
+          <li class="github"><a href="http://github.com/jmarcon" target="_blank"><i class="fa fa-github"></i></a></li>
+        
+        
+          <li class="linkedin"><a href="https://in.linkedin.com/in/julianomarcon# add your Linkedin handle" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+        
+        <li class=""><a href="/feed.xml"><span class="fa fa-rss"></span></a></li>
+      </ul>
+    </section> <!-- End Section Contact -->
+    <div class="copyright">
+      <p>2019 &copy; Juliano Marcon</p>
+    </div>
+  </footer> <!-- End Footer -->
+</aside> <!-- End Sidebar -->
+<div class="content-box clearfix">
+  <article class="article-page">
+  <div class="page-content">
+    
+    <div class="page-cover-image">
+      <figure>
+        <img class="page-image" src=/assets/img/posts/cassandra.png
+          alt="Node e Cassandra - Parte 2 : O mínimo do cassandra">
+        
+      </figure>
+    </div> <!-- End Page Cover Image -->
+    
+    <div class="wrap-content">
+      <header class="header-page">
+        <h1 class="page-title">Node e Cassandra - Parte 2 : O mínimo do cassandra</h1>
+        <div class="page-date"><span>21/03/2016</span></div>
+      </header>
+      <p>Este é o segundo de três posts sobre como criar uma API utilizando o
+<a href="https://nodejs.org">NodeJS</a> e o <a href="https://cassandra.apache.org">Apache Cassandra</a>.</p>
+
+<p>Não vou discutir qual é o banco mais indicado para seu projeto, deixo aqui alguns
+benchmarks encontrados na internet para que você possa tomar a decisão.
+<!--more--></p>
+
+<ul>
+  <li><a href="http://www.planetcassandra.org/nosql-performance-benchmarks/">Planet Cassandra</a></li>
+  <li><a href="https://www.mongodb.com/blog/post/high-performance-benchmarking-mongodb-and-nosql-systems">MongoDB</a></li>
+  <li><a href="https://jaxenter.com/evaluating-nosql-performance-which-database-is-right-for-your-data-107481.html">JaxEnter</a></li>
+</ul>
+
+<p>Neste momento, vamos preparar nossa base para receber os dados de nossa API. Para
+nosso exemplo apenas armazenaremos dados simples de email e senha. Apenas focado
+em uma autenticação simples.</p>
+
+<p>Com o Docker do Cassandra rodando como descrito no
+<a href="/posts/2016/03/node-e-cassandra-parte1-ambiente/">artigo anterior</a>, vamos agora nos conectar
+na base de dados.</p>
+
+<p>Se você criou as pastas como indicado, vamos iniciar o prompt do cassandra em uma
+maquina docker temporária, execute o comando abaixo:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>docker run <span class="nt">-it</span> <span class="nt">--link</span> cassandranode_cassandra_1:cassandra <span class="nt">--rm</span> cassandra sh <span class="nt">-c</span> <span class="s1">'exec cqlsh "$CASSANDRA_PORT_9042_TCP_ADDR"'</span>
+</code></pre></div></div>
+
+<p>O termo  <strong>cassandranode_cassandra_1</strong> encontrado no comando acima se refere
+ao nome do Docker que esta rodando o cassandra no Kitematic.</p>
+
+<p>Desta forma, deve ver o prompt do cassandra rodando no terminal:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cqlsh&gt;
+</code></pre></div></div>
+
+<p>A primeira coisa que faremos é criar o Keyspace. O Keyspace do cassandra é como
+se fosse o Schema do banco de dados. É nesse espaço que criaremos nossa tabela
+depois.</p>
+
+<p>Vamos criar o Keyspace:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cqlsh&gt; CREATE KEYSPACE demo
+   ... WITH REPLICATION <span class="o">=</span> <span class="o">{</span>
+   ... <span class="s1">'class'</span> : <span class="s1">'SimpleStrategy'</span>,
+   ... <span class="s1">'replication_factor'</span> : 1
+   ... <span class="o">}</span><span class="p">;</span>
+</code></pre></div></div>
+
+<p>Os parâmetros passados para replicação não serão tratados aqui.</p>
+
+<p>Verifique se o Keyspace foi criado:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cqlsh&gt; DESC KEYSPACES<span class="p">;</span>
+
+demo   system_schema   system_auth   ...
+</code></pre></div></div>
+
+<p>Defina o Keyspace que vamos trabalhar agora.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cqlsh&gt; USE demo<span class="p">;</span>
+</code></pre></div></div>
+
+<p>E crie nossa tabela</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cqlsh:demo&gt; CREATE TABLE <span class="nb">users</span> <span class="o">(</span>
+        ... email text,
+        ... password text,
+        ... PRIMARY KEY <span class="o">(</span>email<span class="o">)</span>
+        ... <span class="o">)</span><span class="p">;</span>
+</code></pre></div></div>
+
+<p>Criamos nossa tabela, para ver que tudo esta no banco execute o comando:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cqlsh:demo&gt; DESC SCHEMA<span class="p">;</span>
+</code></pre></div></div>
+
+<p>Desta forma deixamos nosso banco pronto para nosso exemplo de API em NodeJS
+que será finalizado no próximo artigo.</p>
+
+      <div class="page-footer">
+        <div class="page-share">
+          <a href="https://twitter.com/intent/tweet?text=Node e Cassandra - Parte 2 : O mínimo do cassandra&url=/posts/2016/03/node-e-cassandra-parte2-o-minimo-do-cassandra/"
+            title="Share on Twitter" rel="nofollow" target="_blank"><span class="fa fa-twitter"></span></a>
+          <a href="https://facebook.com/sharer.php?u=/posts/2016/03/node-e-cassandra-parte2-o-minimo-do-cassandra/" title="Share on Facebook"
+            rel="nofollow" target="_blank"><span class="fa fa-facebook"></span></a>
+          <a href="https://www.linkedin.com/shareArticle?mini=true&url=/posts/2016/03/node-e-cassandra-parte2-o-minimo-do-cassandra/&title=Node+e+Cassandra+-+Parte+2+%3A+O+m%C3%ADnimo+do+cassandra&source="
+            rel="nofollow" target="_blank"><span class="fa fa-linkedin"></span></a>
+        </div>
+        <div class="page-tag">
+          
+          <a href="/tags#Node" class="tag">&#35; Node</a>
+          
+          <a href="/tags#Cassandra" class="tag">&#35; Cassandra</a>
+          
+          <a href="/tags#NoSQL" class="tag">&#35; NoSQL</a>
+          
+        </div>
+        <div class="page-tag">
+          
+          <a href="/categories#Software" class="category">Software</a>
+          
+          <a href="/categories#Node" class="category">Node</a>
+          
+          <a href="/categories#Cassandra" class="category">Cassandra</a>
+          
+        </div>
+       
+      </div>
+      
+      <section class="comment-area">
+  <div class="comment-wrapper">
+    
+    <div id="disqus_thread" class="article-comments"></div>
+    <script>
+      (function () {
+        var d = document,
+          s = d.createElement('script');
+        s.src = '//juliano-marcon.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+      })();
+
+      var disqus_config = function () {
+        this.language = "pt_BR";
+      };
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by
+        Disqus.</a></noscript>
+    
+  </div>
+</section> <!-- End Comment Area -->
+      
+    </div> <!-- End Wrap Content -->
+  </div> <!-- End Page Content -->
+</article> <!-- End Article Page -->
+</div>
+
+  </div>
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', '', 'auto');
+    ga('send', 'pageview');
+  </script> <!-- End Analytics -->
+</body>
+</html>

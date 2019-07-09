@@ -1,454 +1,79 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>https://jmarcon.github.io/post/20160424-o-debito-tecnico-das-empresas-projetizadas/</loc>
-    <lastmod>2016-04-25T15:42:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/post/20160420-sobre-refactoring/</loc>
-    <lastmod>2016-04-21T15:42:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/post/20160418-como-ser-um-desenvolvedor-melhor/</loc>
-    <lastmod>2016-03-18T22:19:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/post/20160417-multitarefa-e-a-motivacao/</loc>
-    <lastmod>2016-03-12T15:42:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/post/20160416-e-tudo-javascript/</loc>
-    <lastmod>2016-04-16T15:42:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/post/20160325-outsourcing-riscos-e-oportunidades/</loc>
-    <lastmod>2016-03-12T15:42:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/post/20160322-node-e-cassandra-parte3-criando-uma-api-simples/</loc>
-    <lastmod>2016-03-22T15:42:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/post/20160321-node-e-cassandra-parte2-o-minimo-do-cassandra/</loc>
-    <lastmod>2016-03-21T15:42:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/post/20160320-node-e-cassandra-parte1-ambiente/</loc>
-    <lastmod>2016-03-20T15:42:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/post/20160319-ti-bimodal-uma-questao-de-respeito/</loc>
-    <lastmod>2016-03-12T19:42:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/post/20160316-a-guerra-das-linguagens/</loc>
-    <lastmod>2016-03-16T15:42:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/post/20160312-beneficios-de-hackathons-dojos-internos/</loc>
-    <lastmod>2016-03-12T15:42:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/about/contato/</loc>
-    <lastmod>2016-03-03T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/post/20160303-qual-seu-lado-da-forca/</loc>
-    <lastmod>2016-03-03T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/about/julianomarcon/</loc>
-    <lastmod>2016-03-03T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/sucesso/</loc>
-    <lastmod>2016-03-03T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/professional/REDE-Especialista-Arquitetura-Software/</loc>
-    <lastmod>2015-10-01T14:54:59-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/education/Gestao-Lideranca/</loc>
-    <lastmod>2015-06-01T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/professional/REDE-Coordenador/</loc>
-    <lastmod>2015-10-01T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/certification/Certified-ScrumMaster/</loc>
-    <lastmod>2014-10-01T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/certification/MS-Programming-HTML5-JavaScript-CSS3-Specialist/</loc>
-    <lastmod>2014-06-01T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/education/MBA-Gestao-Negocios/</loc>
-    <lastmod>2012-06-01T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/certification/MCPD-AspNet-Developer/</loc>
-    <lastmod>2012-05-01T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/professional/REDE-Analista-Senior/</loc>
-    <lastmod>2015-02-01T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/professional/BSI-Analista-Senior/</loc>
-    <lastmod>2102-01-01T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/professional/TECHRESULT-Web-Application-Developer/</loc>
-    <lastmod>2011-08-01T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/certification/MCTS-ADO-Application-Developer/</loc>
-    <lastmod>2011-06-01T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/certification/MCTS-Windows-Forms-Application-Developer/</loc>
-    <lastmod>2011-06-01T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/professional/INFORMA-Application-Developer/</loc>
-    <lastmod>2011-06-01T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/certification/MCTS-AspNet-Application-Developer/</loc>
-    <lastmod>2010-12-01T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/certification/MCP-Application-Development-Foundation/</loc>
-    <lastmod>2010-10-01T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/professional/KEES-Instrutor-Certificacoes-dotnet/</loc>
-    <lastmod>2011-06-01T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/professional/DUAL-Consultoria-Analista-Senior/</loc>
-    <lastmod>2011-04-01T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/professional/PEOPLE-Instrutor-Programacao/</loc>
-    <lastmod>2009-06-01T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/professional/SECRETARIA_EDUCACAO-Professor-Matematica/</loc>
-    <lastmod>2009-06-01T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/professional/MCOM-Analista-Produtos/</loc>
-    <lastmod>2007-12-01T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/professional/EMPRO-Analista-Suporte/</loc>
-    <lastmod>2007-06-01T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/professional/ZAFER-Proprietario/</loc>
-    <lastmod>2007-01-01T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/professional/S3COMPUTADORES-Tecnico-Informatica/</loc>
-    <lastmod>2005-06-01T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/education/Matematica/</loc>
-    <lastmod>2000-06-01T00:19:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/about/</loc>
-    <lastmod>2016-03-03T00:19:25-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/categories/agilidade/</loc>
-    <lastmod>2016-04-25T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/tags/api/</loc>
-    <lastmod>2016-03-22T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/tags/brasil/</loc>
-    <lastmod>2016-04-25T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/categories/cassandra/</loc>
-    <lastmod>2016-03-22T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/tags/cassandra/</loc>
-    <lastmod>2016-03-21T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/certification/</loc>
-    <lastmod>2014-10-01T00:19:25-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/tags/cliente/</loc>
-    <lastmod>2016-04-16T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/tags/comparativo-de-linguagens/</loc>
-    <lastmod>2016-03-16T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/tags/desenvolvimento-pessoal/</loc>
-    <lastmod>2016-03-03T00:19:25-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/tags/docker/</loc>
-    <lastmod>2016-03-20T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/tags/dojo/</loc>
-    <lastmod>2016-03-12T19:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/tags/d%C3%A9bito-t%C3%A9cnico/</loc>
-    <lastmod>2016-04-25T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/education/</loc>
-    <lastmod>2015-06-01T00:19:25-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/categories/gest%C3%A3o/</loc>
-    <lastmod>2016-03-12T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/tags/gest%C3%A3o/</loc>
-    <lastmod>2016-04-16T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/tags/hackathons/</loc>
-    <lastmod>2016-03-12T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/tags/hackatons/</loc>
-    <lastmod>2016-03-12T19:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/tags/infraestrutura/</loc>
-    <lastmod>2016-03-20T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/</loc>
-    <lastmod>2016-04-25T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/tags/jedi/</loc>
-    <lastmod>2016-03-03T00:19:25-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/tags/lado-luminoso/</loc>
-    <lastmod>2016-03-03T00:19:25-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/tags/lado-negro/</loc>
-    <lastmod>2016-03-03T00:19:25-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/categories/lideran%C3%A7a/</loc>
-    <lastmod>2016-03-03T00:19:25-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/tags/lideran%C3%A7a-corporativa/</loc>
-    <lastmod>2016-03-18T22:19:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/categories/mercado/</loc>
-    <lastmod>2016-04-25T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/categories/node/</loc>
-    <lastmod>2016-03-22T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/tags/node/</loc>
-    <lastmod>2016-03-22T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/tags/nosql/</loc>
-    <lastmod>2016-03-21T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/tags/opni%C3%A3o/</loc>
-    <lastmod>2016-03-12T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/categories/pessoas/</loc>
-    <lastmod>2016-04-25T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/tags/pessoas/</loc>
-    <lastmod>2016-03-12T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/post/</loc>
-    <lastmod>2016-04-25T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/professional/</loc>
-    <lastmod>2015-10-01T14:54:59-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/categories/programa%C3%A7%C3%A3o/</loc>
-    <lastmod>2016-03-18T22:19:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/tags/projetos/</loc>
-    <lastmod>2016-04-25T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/categories/sistemas/</loc>
-    <lastmod>2016-03-12T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/categories/software/</loc>
-    <lastmod>2016-04-21T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/tags/tecnologia/</loc>
-    <lastmod>2016-04-25T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jmarcon.github.io/tags/vis%C3%A3o-corporativa/</loc>
-    <lastmod>2016-04-25T15:42:00-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>/posts/2016/03/qual-seu-lado-da-forca/</loc>
+<lastmod>2016-03-03T03:19:25+00:00</lastmod>
+</url>
+<url>
+<loc>/posts/2016/03/beneficios-de-hackathons-dojos-internos/</loc>
+<lastmod>2016-03-12T18:42:00+00:00</lastmod>
+</url>
+<url>
+<loc>/posts/2016/03/a-guerra-das-linguagens/</loc>
+<lastmod>2016-03-16T18:42:00+00:00</lastmod>
+</url>
+<url>
+<loc>/posts/2016/03/ti-bimodal-uma-questao-de-respeito/</loc>
+<lastmod>2016-03-19T20:18:14+00:00</lastmod>
+</url>
+<url>
+<loc>/posts/2016/03/node-e-cassandra-parte1-ambiente/</loc>
+<lastmod>2016-03-20T20:19:02+00:00</lastmod>
+</url>
+<url>
+<loc>/posts/2016/03/node-e-cassandra-parte2-o-minimo-do-cassandra/</loc>
+<lastmod>2016-03-21T20:19:15+00:00</lastmod>
+</url>
+<url>
+<loc>/posts/2016/03/node-e-cassandra-parte3-criando-uma-api-simples/</loc>
+<lastmod>2016-03-22T20:19:31+00:00</lastmod>
+</url>
+<url>
+<loc>/posts/2016/03/outsourcing-riscos-e-oportunidades/</loc>
+<lastmod>2016-03-25T17:26:38+00:00</lastmod>
+</url>
+<url>
+<loc>/posts/2016/04/e-tudo-javascript/</loc>
+<lastmod>2016-04-16T18:42:00+00:00</lastmod>
+</url>
+<url>
+<loc>/posts/2016/04/multitarefa-e-a-motivacao/</loc>
+<lastmod>2016-04-17T19:06:25+00:00</lastmod>
+</url>
+<url>
+<loc>/posts/2016/04/como-ser-um-desenvolvedor-melhor/</loc>
+<lastmod>2016-04-18T20:53:07+00:00</lastmod>
+</url>
+<url>
+<loc>/posts/2016/04/sobre-refactoring/</loc>
+<lastmod>2016-04-20T20:48:35+00:00</lastmod>
+</url>
+<url>
+<loc>/posts/2016/04/o-debito-tecnico-das-empresas-projetizadas/</loc>
+<lastmod>2016-04-24T14:36:41+00:00</lastmod>
+</url>
+<url>
+<loc>/404/</loc>
+</url>
+<url>
+<loc>/about/</loc>
+</url>
+<url>
+<loc>/categories/</loc>
+</url>
+<url>
+<loc>/</loc>
+</url>
+<url>
+<loc>/tags/</loc>
+</url>
+<url>
+<loc>/posts/page/2/</loc>
+</url>
+<url>
+<loc>/posts/page/3/</loc>
+</url>
+<url>
+<loc>/posts/page/4/</loc>
+</url>
 </urlset>
