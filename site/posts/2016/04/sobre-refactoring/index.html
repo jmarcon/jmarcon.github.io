@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Sobre TDD e Refactoring - Juliano Marcon</title>
+
+    <!-- Edit site and author settings in `_config.yml` to make the social details your own -->
+
+    <meta content="Juliano Marcon" property="og:site_name">
+    
+    <meta content="Sobre TDD e Refactoring" property="og:title">
+    
+    
+    <meta content="article" property="og:type">
+    
+    
+    <meta content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+" property="og:description">
+    
+    
+    <meta content="/posts/2016/04/sobre-refactoring/" property="og:url">
+    
+    
+    <meta content="2016-04-20T20:48:35+00:00" property="article:published_time">
+    <meta content="/about/" property="article:author">
+    
+    
+    <meta content="/assets/img/posts/tdd.jpg" property="og:image">
+    
+    
+    
+    <meta content="Agilidade" property="article:section">
+    
+    
+    
+    
+    <meta content="Tecnologia" property="article:tag">
+    
+    <meta content="Projetos" property="article:tag">
+    
+    <meta content="Brasil" property="article:tag">
+    
+    <meta content="Débito Técnico" property="article:tag">
+    
+    <meta content="Visão Corporativa" property="article:tag">
+    
+    
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@">
+    <meta name="twitter:creator" content="@julianomarcon">
+    
+    <meta name="twitter:title" content="Sobre TDD e Refactoring">
+    
+    
+    <meta name="twitter:url" content="/posts/2016/04/sobre-refactoring/">
+    
+    
+    <meta name="twitter:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+">
+    
+    
+    <meta name="twitter:image:src" content="/assets/img/posts/tdd.jpg">
+    
+
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta property="og:image" content="">
+    <link rel="shortcut icon" href="/assets/img/favicon/favicon.ico"
+        type="image/x-icon">
+    <link rel="apple-touch-icon" href="/assets/img/favicon/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72"
+        href="/assets/img/favicon/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="144x144"
+        href="/assets/img/favicon/apple-touch-icon-144x144.png">
+    <!-- Chrome, Firefox OS and Opera -->
+    <meta name="theme-color" content="#263959">
+    <!-- Windows Phone -->
+    <meta name="msapplication-navbutton-color" content="#263959">
+    <!-- iOS Safari -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="#263959">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=PT+Serif:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- href="/assets/fonts/font-awesome/css/font-awesome.min.css"> -->
+    <!-- Styles -->
+    <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+<body>
+
+  <div class="wrapper">
+    <aside class="sidebar">
+  <header>
+    <div class="about">
+      <div class="cover-author-image">
+        <a href="/"><img src="/assets/img/profile.jpg" alt="Juliano Marcon"></a>
+      </div>
+      <div class="author-name">Juliano Marcon</div>
+      
+      
+      
+    </div>
+  </header> <!-- End Header -->
+  <footer>
+    <section class="contact">
+      <h3 class="contact-title">SOCIAL</h3>
+      <ul>
+        
+          <li><a href="https://twitter.com/julianomarcon" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+        
+        
+          <li><a href="https://facebook.com/jmarcon.net" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+        
+        
+          <li class="github"><a href="http://github.com/jmarcon" target="_blank"><i class="fa fa-github"></i></a></li>
+        
+        
+          <li class="linkedin"><a href="https://in.linkedin.com/in/julianomarcon# add your Linkedin handle" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+        
+        <li class=""><a href="/feed.xml"><span class="fa fa-rss"></span></a></li>
+      </ul>
+    </section> <!-- End Section Contact -->
+    <div class="copyright">
+      <p>2019 &copy; Juliano Marcon</p>
+    </div>
+  </footer> <!-- End Footer -->
+</aside> <!-- End Sidebar -->
+<div class="content-box clearfix">
+  <article class="article-page">
+  <div class="page-content">
+    
+    <div class="page-cover-image">
+      <figure>
+        <img class="page-image" src=/assets/img/posts/tdd.jpg
+          alt="Sobre TDD e Refactoring">
+        
+      </figure>
+    </div> <!-- End Page Cover Image -->
+    
+    <div class="wrap-content">
+      <header class="header-page">
+        <h1 class="page-title">Sobre TDD e Refactoring</h1>
+        <div class="page-date"><span>20/04/2016</span></div>
+      </header>
+      <p>A preocupação diária com a qualidade dos código construídos nas empresas que desenvolvem software, próprios ou para terceiros, estão fomentando a prática de técnicas como o TDD.</p>
+
+<p>Os times tem espaço para aprender e aplicar essa técnica? Será que as empresas realmente sabem o que significa isso?</p>
+
+<!--more-->
+
+<h3 id="o-que-é-tdd">O que é TDD?</h3>
+
+<p><a href="https://pt.wikipedia.org/wiki/Test_Driven_Development">Test Driven Development (TDD)</a>, ou em tradução livre, Desenvolvimento Orientado a Testes é uma metodologia com foco em converter as necessidades de negócios em testes computacionais para, em seguida, escrever um trecho de código que passe no teste e, finalmente, executar o Refactoring dos programas.</p>
+
+<p>Busca-se um código de qualidade, funcionando e testado, através da repetição contínua do ciclo apresentado acima.</p>
+
+<h3 id="o-que-é-refactoring">O que é Refactoring?</h3>
+
+<p>É a prática de reescrever códigos sem alterar sua funcionalidade evoluindo suas características não funcionais. Executar de forma contínua pequenos procedimentos de refactoring produz uma reestruturação significativa no projeto.</p>
+
+<p><img src="/assets/img/posts/qualidade.png" alt="Qualidade" style="max-width:200px; float:left; margin:10px;" /></p>
+
+<p>O passo de Refactoring é o que garante a qualidade e performance do código escrito e, portanto, o procedimento mais impactado pelo triângulo da qualidade.</p>
+
+<p>Durante o levantamento de projetos e seu planejamento, as principais informações que são avaliadas pelos stakeholders são os lados desse triângulo, e tentam ao máximo reduzir o custo e o tempo sempre tentando incluir o máximo de escopo.</p>
+
+<p>Mesmo que a grande maioria dos gestores de projeto conheça essa tríplice, quando se trata de software, a espectativa deles é que a qualidade seja garantida pela equipe de desenvolvimento. Desta formar, a qualidade é a primeira que sofre impactos quando o cronograma precisa ser reduzido sem perder as funcionalidades pedidas pelo cliente.</p>
+
+<p>Isso seria um comportamento aceitável em circunstâncias onde exista flexibilidade para rever o código posteriormente. Mas… Projetos devem ter começo e fim. A solução seria criar um novo projeto para resolver as falhas futuras, mas é difícil defender o lucro em um projeto assim. Tento apresentar uma sugestão para lidar com essa situação em <a href="/posts/2016/04/o-debito-tecnico-das-empresas-projetizadas/">outro artigo</a>.</p>
+
+<p>Ao final, considerado entregue, um produto sai da fila de prioridades da empresa e novos projetos começam a ser estudados.</p>
+
+<h3 id="como-manter-a-qualidade">Como manter a qualidade?</h3>
+
+<p>A janela da situação do projeto continuará sendo um cronograma, mas não apenas é possível apresentar as necessidades e os benefícios de investir na qualidade durante o desenvolvimento, como é simples demonstrar o valor agregado nessas ações.</p>
+
+<h5 id="qualidade-faz-parte-do-escopo">Qualidade faz parte do escopo:</h5>
+
+<p>Apesar de improvável, o levantamento inicial deveria considerar os requisitos não funcionais como parte do escopo e o tempo de refactoring necessário para garantir a qualidade do código.</p>
+
+<p>Esses tempo deve ser defendido no projeto como risco operacional futuro e dependências para a continuidade do negócio.</p>
+
+<p>Em times ágeis, a participação de um arquiteto e o auto aprendizado do time causa um senso de responsabilidade pelo produto que força as pessoas a considerar o refactoring no momento da definição do escopo das atividades.</p>
+
+<h5 id="equipes-de-qualidade-que-entendem-do-código">Equipes de qualidade que entendem do código:</h5>
+
+<p>Definir uma equipe de revisão de código constante e responsável pela arquitetura e requisitos não funcionais de cada projeto.</p>
+
+<p>Essas equipes poderiam ser divididas por linha de negócios ou produto e deveriam não apenas fomentar os refactorings antes da entrega das funcionaldiades mas também acompanhar o desenvolvimento de perto.</p>
+
+<p>É uma prática comum para escalar os times ágeis ter um time de arquitetura responsável por um conjunto de produtos e funcionalidades apoiando os times de desenvolvimento.</p>
+
+<h5 id="definir-o-que-testar">Definir o que testar:</h5>
+
+<p>Ter absolutamente tudo com testes é algo muito caro e, provavelmente, o custo envolvido supera os benefícios.</p>
+
+<p>Um código 100% testado pode parecer um sonho para muitos desenvolvedores e entusiastas do TDD, mas é fato que para ter esse nível de qualidade, muito tempo e dinheiro devem ser investidos.</p>
+
+<p>É preciso ponderar se os testes estão realmente agregando valor para a empresa, pois pode ocorrer que o custo de manutenção do teste supere os custos de manutenção do código.</p>
+
+<p>Definir uma porcentagem de cobertura dos testes pode ajudar flexibilizar o esforço, mas isso pode impactar como as pessoas escrevem os testes e os desenvolvedores podem acabar focando em escrever os testes mais simples e deixar as rotinas mais complexas descobertas. Isso é o oposto de agregar valor.</p>
+
+<p>Portanto, neste caso, o time deve ser guiado e evoluir para conseguir criar uma consciência comum sobre a relevância do teste, a visão da equipe de negócios sobre a funcionalidade e a percepção dos programas que possuem dependências de outros trechos de código e que podem ser impactados facilmente por alterações futuras.</p>
+
+<h5 id="acompanhe">Acompanhe:</h5>
+
+<p>Use algumas métricas para acompanhar a evolução da qualidade de seu código, como a quantidade de defeitos encontrados após a entrega, a melhora da velocidade da aplicação ou a diminuição das reclamações dos clientes.</p>
+
+      <div class="page-footer">
+        <div class="page-share">
+          <a href="https://twitter.com/intent/tweet?text=Sobre TDD e Refactoring&url=/posts/2016/04/sobre-refactoring/"
+            title="Share on Twitter" rel="nofollow" target="_blank"><span class="fa fa-twitter"></span></a>
+          <a href="https://facebook.com/sharer.php?u=/posts/2016/04/sobre-refactoring/" title="Share on Facebook"
+            rel="nofollow" target="_blank"><span class="fa fa-facebook"></span></a>
+          <a href="https://www.linkedin.com/shareArticle?mini=true&url=/posts/2016/04/sobre-refactoring/&title=Sobre+TDD+e+Refactoring&source="
+            rel="nofollow" target="_blank"><span class="fa fa-linkedin"></span></a>
+        </div>
+        <div class="page-tag">
+          
+          <a href="/tags#Tecnologia" class="tag">&#35; Tecnologia</a>
+          
+          <a href="/tags#Projetos" class="tag">&#35; Projetos</a>
+          
+          <a href="/tags#Brasil" class="tag">&#35; Brasil</a>
+          
+          <a href="/tags#Débito Técnico" class="tag">&#35; Débito Técnico</a>
+          
+          <a href="/tags#Visão Corporativa" class="tag">&#35; Visão Corporativa</a>
+          
+        </div>
+        <div class="page-tag">
+          
+          <a href="/categories#Agilidade" class="category">Agilidade</a>
+          
+          <a href="/categories#Pessoas" class="category">Pessoas</a>
+          
+          <a href="/categories#Software" class="category">Software</a>
+          
+        </div>
+       
+      </div>
+      
+      <section class="comment-area">
+  <div class="comment-wrapper">
+    
+    <div id="disqus_thread" class="article-comments"></div>
+    <script>
+      (function () {
+        var d = document,
+          s = d.createElement('script');
+        s.src = '//juliano-marcon.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+      })();
+
+      var disqus_config = function () {
+        this.language = "pt_BR";
+      };
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by
+        Disqus.</a></noscript>
+    
+  </div>
+</section> <!-- End Comment Area -->
+      
+    </div> <!-- End Wrap Content -->
+  </div> <!-- End Page Content -->
+</article> <!-- End Article Page -->
+</div>
+
+  </div>
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', '', 'auto');
+    ga('send', 'pageview');
+  </script> <!-- End Analytics -->
+</body>
+</html>

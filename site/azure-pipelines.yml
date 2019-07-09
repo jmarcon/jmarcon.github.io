@@ -1,0 +1,39 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- master
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+- task: UseRubyVersion@0
+  inputs:
+    versionSpec: '>= 2.4'
+
+- task: CmdLine@2
+  inputs:
+    script: 'echo Install Bundler Tool
+      
+      gem install bundler'
+
+- task: CmdLine@2
+  inputs:
+    script: 'echo Install all dependencies
+      
+      bundle install'
+
+- task: CmdLine@2
+  inputs:
+    script: 'echo Write your commands here
+      
+      bundle exec jekyll build -d $(Build.ArtifactStagingDirectory)'
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'site'
+    publishLocation: 'Container'

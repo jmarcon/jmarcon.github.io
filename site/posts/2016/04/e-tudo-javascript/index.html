@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>É tudo JavaScript - Juliano Marcon</title>
+
+    <!-- Edit site and author settings in `_config.yml` to make the social details your own -->
+
+    <meta content="Juliano Marcon" property="og:site_name">
+    
+    <meta content="É tudo JavaScript" property="og:title">
+    
+    
+    <meta content="article" property="og:type">
+    
+    
+    <meta content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+" property="og:description">
+    
+    
+    <meta content="/posts/2016/04/e-tudo-javascript/" property="og:url">
+    
+    
+    <meta content="2016-04-16T18:42:00+00:00" property="article:published_time">
+    <meta content="/about/" property="article:author">
+    
+    
+    <meta content="/assets/img/posts/meanjs.png" property="og:image">
+    
+    
+    
+    <meta content="Software" property="article:section">
+    
+    
+    
+    
+    <meta content="Cliente" property="article:tag">
+    
+    <meta content="Gestão" property="article:tag">
+    
+    
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@">
+    <meta name="twitter:creator" content="@julianomarcon">
+    
+    <meta name="twitter:title" content="É tudo JavaScript">
+    
+    
+    <meta name="twitter:url" content="/posts/2016/04/e-tudo-javascript/">
+    
+    
+    <meta name="twitter:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+">
+    
+    
+    <meta name="twitter:image:src" content="/assets/img/posts/meanjs.png">
+    
+
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta property="og:image" content="">
+    <link rel="shortcut icon" href="/assets/img/favicon/favicon.ico"
+        type="image/x-icon">
+    <link rel="apple-touch-icon" href="/assets/img/favicon/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72"
+        href="/assets/img/favicon/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="144x144"
+        href="/assets/img/favicon/apple-touch-icon-144x144.png">
+    <!-- Chrome, Firefox OS and Opera -->
+    <meta name="theme-color" content="#263959">
+    <!-- Windows Phone -->
+    <meta name="msapplication-navbutton-color" content="#263959">
+    <!-- iOS Safari -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="#263959">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=PT+Serif:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- href="/assets/fonts/font-awesome/css/font-awesome.min.css"> -->
+    <!-- Styles -->
+    <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+<body>
+
+  <div class="wrapper">
+    <aside class="sidebar">
+  <header>
+    <div class="about">
+      <div class="cover-author-image">
+        <a href="/"><img src="/assets/img/profile.jpg" alt="Juliano Marcon"></a>
+      </div>
+      <div class="author-name">Juliano Marcon</div>
+      
+      
+      
+    </div>
+  </header> <!-- End Header -->
+  <footer>
+    <section class="contact">
+      <h3 class="contact-title">SOCIAL</h3>
+      <ul>
+        
+          <li><a href="https://twitter.com/julianomarcon" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+        
+        
+          <li><a href="https://facebook.com/jmarcon.net" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+        
+        
+          <li class="github"><a href="http://github.com/jmarcon" target="_blank"><i class="fa fa-github"></i></a></li>
+        
+        
+          <li class="linkedin"><a href="https://in.linkedin.com/in/julianomarcon# add your Linkedin handle" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+        
+        <li class=""><a href="/feed.xml"><span class="fa fa-rss"></span></a></li>
+      </ul>
+    </section> <!-- End Section Contact -->
+    <div class="copyright">
+      <p>2019 &copy; Juliano Marcon</p>
+    </div>
+  </footer> <!-- End Footer -->
+</aside> <!-- End Sidebar -->
+<div class="content-box clearfix">
+  <article class="article-page">
+  <div class="page-content">
+    
+    <div class="page-cover-image">
+      <figure>
+        <img class="page-image" src=/assets/img/posts/meanjs.png
+          alt="É tudo JavaScript">
+        
+      </figure>
+    </div> <!-- End Page Cover Image -->
+    
+    <div class="wrap-content">
+      <header class="header-page">
+        <h1 class="page-title">É tudo JavaScript</h1>
+        <div class="page-date"><span>16/04/2016</span></div>
+      </header>
+      <p>Vejo que atualmente muito se fala sobre MEAN Stack. Em resumo é uma pilha de tecnologias para desenvolvimento web baseada em JavaScript. Não pretendo discutir se a linguagem é a melhor. Vou apresentar as vantagens e desvantagens de basear todo o ambiente em uma única linguagem.
+<!--more--></p>
+
+<p>Se seu foco é aprender sobre o MEAN, pode encontrar informações agrupadas em
+<a href="http://www.mean.io">MEAN.IO</a> ou em <a href="https://www.meanjs.org">MEAN.JS</a>. Mas sugiro
+que foque primeiro nas tecnologias em separado:</p>
+
+<ul>
+  <li><a href="https://www.mongodb.org"><strong>M</strong>ongo</a></li>
+  <li><a href="http://www.expressjs.com"><strong>E</strong>xpress</a></li>
+  <li><a href="https://www.angularjs.org"><strong>A</strong>ngular</a></li>
+  <li><a href="https://www.nodejs.org"><strong>N</strong>ode</a></li>
+</ul>
+
+<p>Se sua situação atual está um passo antes, ou seja, decidindo SE vai utilizar
+esse conjunto de recursos vou levantar alguns pontos que podem ser de seu interesse
+para apoiar sua escolha.</p>
+
+<h3 id="vantagens">Vantagens</h3>
+
+<h4 id="a-linguagem-é-sempre-a-mesma">A linguagem é sempre a mesma</h4>
+
+<p>Ter um ambiente onde todos os sistemas falam a mesma língua ajuda as pessoas
+a conseguirem discutir livremente sobre o que pode estar ocorrendo ou como criar um programa da melhor forma possível.</p>
+
+<p>A análise da qualidade do código pode ser simplificada, programadores podem fazer
+o <strong>code review</strong> de outros mais facilmente. Dessa forma, mais e mais pessoas terão a capacidade de avaliar se o que está sendo produzido é feito da melhor forma.</p>
+
+<h4 id="curva-de-aprendizagem">Curva de aprendizagem</h4>
+
+<p>A curva de aprendizagem entre os sistemas e tecnologias envolvidos é reduzida e as pessoas podem
+evoluir mais rapidamente no conhecimento do código gerado e aumentar a produtividade.</p>
+
+<p>A comunidade pode apoiar facilmente os novos profissionais e uma maior quantidade
+de cursos e treinamentos estarão disponíveis para apoiar a evolução de um time em
+formação.</p>
+
+<h4 id="a-linguagem-é-bem-difundida">A linguagem é bem difundida</h4>
+
+<p>Se existe tecnologia em diversos meios com a mesma linguagem, é bem provável que
+exista um maior numero de pessoas que a conheçam bem. Isso é um aliado forte no
+momento de montar um time de desenvolvedores.</p>
+
+<p>Contratar novos profissionais, quando o produto evoluir e crescer, pode ser um
+desafio. Saber que a tecnologia é amplamente conhecida facilita para as equipes
+de recrutamento captar pessoas para o time em crescimento.</p>
+
+<h4 id="existe-muita-coisa-pronta">Existe muita coisa pronta</h4>
+
+<p>Com a mesma linguagem, a quantidade de módulos e códigos prontos disponíveis nos
+repositórios na internet aumenta significativamente a cada dia. Isso pode significar
+um aumento de produtividade para iniciar seu projeto e mais velocidade nas entregas.</p>
+
+<p>O uso de repositórios como o <a href="https://www.npmjs.com">NPM</a> torna simples utilizar novos
+módulos nas aplicações.</p>
+
+<div class="row">
+  <div class="col-xs-2"></div>
+  <div class="col-xs-8 text-center">
+    <img src="/assets/img/posts/js_back_front_joke.jpg" alt="Tudo javascript" class="img-responsive" style="width:100%; max-width:400px" />
+  </div>
+  <div class="col-xs-2"></div>
+</div>
+
+<h3 id="desvantagens">Desvantagens</h3>
+
+<h4 id="a-linguagem-é-sempre-a-mesma-1">A linguagem é sempre a mesma</h4>
+
+<p>Você deve estar se perguntando: “Mas isso não é uma vantagem?”. Nesse caso, existem dois
+lados da moeda. A falsa visão de que, por ser a mesma linguagem, a tecnologia é a mesma
+pode causar um risco aos projetos.</p>
+
+<p>Afinal, um programador de aplicação “front-end” tem um foco de pensamento e raciocínio
+diferente do programador de “back-end” que tem um foco diferente de como armazenar
+informações e deveria ter apoio de conhecedores do banco de dados escolhido.</p>
+
+<h4 id="a-linguagem-é-bem-difundida-e-existe-muita-coisa-pronta">A linguagem é bem difundida e existe muita coisa pronta</h4>
+
+<p>Agrupei essas duas vantagens para apresentar o risco que ambas podem gerar em um
+projeto novo.</p>
+
+<p>A facilidade de encontrar conhecimento e módulos prontos gera o risco de contratar
+pessoas que apenas sabem utilizar os recursos prontos e não tem conhecimento para
+desenvolver a solução da melhor forma.</p>
+
+<p>Alguns profissionais criam aplicações “do zero”, sem que eles escrevam realmente
+uma linha de código voltada para o produto, possuem mais de 3500 arquivos.</p>
+
+<p>Ao invés de discorrer sobre o tema de forma aprofundada (pois sei que esse assunto
+é polêmico), segue duas referências interessantes para estudo que podem exemplificar
+bem como isso pode estar afetando a comunidade.</p>
+
+<ul>
+  <li><a href="http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/">NPM : Have we forgotten how to program?</a></li>
+  <li><a href="https://youtu.be/kA4-b7hvWhg">Why Code in Node.js often gets Rejected by SoundCloud</a></li>
+</ul>
+
+<h4 id="dependência">Dependência</h4>
+
+<p>A escolha de uma pilha baseada na mesma linguagem normalmente inclui a utilização
+de frameworks. Isso é natural, o MEAN é um caso desses, pois utiliza o Express.</p>
+
+<p>Os envolvidos no desenvolvimento do projeto acabam por ficar dependentes do uso
+de determinados recursos e acabam restringindo o uso da tecnologia como um todo.
+Muitas vezes estas restrições são agravadas quando novas versões do framework são
+lançadas e a aplicação precisa de refactorings para utilizar o que é novo.</p>
+
+<p>A dependência pode ficar ainda mais evidente quando um framework para de ser
+desenvolvido e as aplicações continuam a ser utilizadas. Mudanças futuras terão um
+débito técnico que nunca poderão pagar sem reescrever todo o código.</p>
+
+<h5 id="é-muita-coisa-para-um-único-profissional">É muita coisa para um único profissional</h5>
+
+<div class="row">
+  <div class="col-xs-2"></div>
+  <div class="col-xs-8 text-center">
+    <img src="/assets/img/posts/MEAN-Stack-Expertise.jpg" alt="Não é pouca coisa" class="img-responsive" style="width:100%; max-width:400px" />
+  </div>
+  <div class="col-xs-2"></div>
+</div>
+
+<h2 id="conclusão">Conclusão</h2>
+
+<p>Considerando os pontos acima, acredito que utilizar recursos como o MEAN é vantajoso
+principalmente para profissionais ou empresas que pretendem provar um conceito, e que, após um resultado positivo, se preparem para mitigar os riscos e construir, não apenas
+uma aplicação escalável, mas formas de mitigar os riscos gerados por essa escolha
+dentro de seus ambientes.</p>
+
+      <div class="page-footer">
+        <div class="page-share">
+          <a href="https://twitter.com/intent/tweet?text=É tudo JavaScript&url=/posts/2016/04/e-tudo-javascript/"
+            title="Share on Twitter" rel="nofollow" target="_blank"><span class="fa fa-twitter"></span></a>
+          <a href="https://facebook.com/sharer.php?u=/posts/2016/04/e-tudo-javascript/" title="Share on Facebook"
+            rel="nofollow" target="_blank"><span class="fa fa-facebook"></span></a>
+          <a href="https://www.linkedin.com/shareArticle?mini=true&url=/posts/2016/04/e-tudo-javascript/&title=%C3%89+tudo+JavaScript&source="
+            rel="nofollow" target="_blank"><span class="fa fa-linkedin"></span></a>
+        </div>
+        <div class="page-tag">
+          
+          <a href="/tags#Cliente" class="tag">&#35; Cliente</a>
+          
+          <a href="/tags#Gestão" class="tag">&#35; Gestão</a>
+          
+        </div>
+        <div class="page-tag">
+          
+          <a href="/categories#Software" class="category">Software</a>
+          
+          <a href="/categories#Agilidade" class="category">Agilidade</a>
+          
+        </div>
+       
+      </div>
+      
+      <section class="comment-area">
+  <div class="comment-wrapper">
+    
+    <div id="disqus_thread" class="article-comments"></div>
+    <script>
+      (function () {
+        var d = document,
+          s = d.createElement('script');
+        s.src = '//juliano-marcon.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+      })();
+
+      var disqus_config = function () {
+        this.language = "pt_BR";
+      };
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by
+        Disqus.</a></noscript>
+    
+  </div>
+</section> <!-- End Comment Area -->
+      
+    </div> <!-- End Wrap Content -->
+  </div> <!-- End Page Content -->
+</article> <!-- End Article Page -->
+</div>
+
+  </div>
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', '', 'auto');
+    ga('send', 'pageview');
+  </script> <!-- End Analytics -->
+</body>
+</html>
