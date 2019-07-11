@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://www.julianomarcon.com.br/sitemap.xml
