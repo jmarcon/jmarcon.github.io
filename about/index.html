@@ -64,7 +64,7 @@
     
     
     
-    <meta content="https://www.julianomarcon.com.br/assets/img/profile.jpg" property="og:image">
+    <meta content="https://www.julianomarcon.com.br/assets/img/profile2.jpg" property="og:image">
     
     
     
@@ -83,7 +83,7 @@
 ">
     
     
-    <meta name="twitter:image:src" content="https://www.julianomarcon.com.br/assets/img/profile.jpg">
+    <meta name="twitter:image:src" content="https://www.julianomarcon.com.br/assets/img/profile2.jpg">
     
 
     <meta name="description" content="">
@@ -108,11 +108,21 @@
     <link type="application/atom+xml" rel="alternate" href="https://www.julianomarcon.com.br/feed.xml" title="Juliano Marcon" />
 
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=PT+Serif:400,700" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css?family=PT+Serif:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet"> -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,300,500,600,700" rel="stylesheet">
+        
+    <!-- Bootstrap -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha256-aAr2Zpq8MZ+YA/D6JtRD3xtrwpEz2IqOS+pWD/7XKIw=" crossorigin="anonymous" />
+    
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- href="/assets/fonts/font-awesome/css/font-awesome.min.css"> -->
+    
+    <!-- Syntax Highlight -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/styles/darcula.min.css" integrity="sha256-5BRDJ9LsMByOdNbohiNu+sxguR70wTsnt20w6GAZvlU=" crossorigin="anonymous" />
+
     <!-- Styles -->
     <link rel="stylesheet" href="/assets/css/main.css">
 </head>
@@ -122,60 +132,62 @@
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZNGSKJ" height="0" width="0"
       style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
-  
-  <div class="wrapper">
-    <aside class="sidebar">
-  <header>
+
+  <div class="container">
+    <div class="row">
+      <aside class="sidebar col-md-3">
+  <div class="sticky-top">
     <div class="about">
       <div class="cover-author-image">
-        <a href="/"><img
-            src="/assets/img/profile.jpg"
-            alt="Juliano Marcon"></a>
+        <a href="/">
+          <img src="/assets/img/profile2.jpg"
+            alt="Juliano Marcon">
+        </a>
       </div>
+      <section class="menu">
+        <ul>
+          <li><a href="/">Blog</a></li>
+          <li><a href="/presentations">Apresentações</a></li>
+        </ul>
+      </section>
       <div class="author-name">Juliano Marcon</div>
 
 
       
     </div>
-  </header> <!-- End Header -->
-  <footer>
+
     <section class="contact">
-      <h3 class="contact-title">SOCIAL</h3>
       <ul>
         
-        <li><a href="https://twitter.com/julianomarcon" target="_blank"><i class="fa fa-twitter"
-              aria-hidden="true"></i></a></li>
+        <li><a class="twitter" href="https://twitter.com/julianomarcon" target="_blank"><i
+              class="fa fa-twitter" aria-hidden="true"></i></a></li>
         
         
-        <li><a href="https://facebook.com/jmarcon.net" target="_blank"><i class="fa fa-facebook"
-              aria-hidden="true"></i></a></li>
+        <li><a class="facebook" href="https://facebook.com/jmarcon.net" target="_blank"><i
+              class="fa fa-facebook" aria-hidden="true"></i></a></li>
         
         
-        <li class="github"><a href="http://github.com/jmarcon" target="_blank"><i
+        <li><a class="github" href="http://github.com/jmarcon" target="_blank"><i
               class="fa fa-github"></i></a></li>
         
         
-        <li class="linkedin"><a href="https://in.linkedin.com/in/julianomarcon# add your Linkedin handle" target="_blank"><i
+        <li><a class="linkedin" href="https://in.linkedin.com/in/julianomarcon" target="_blank"><i
               class="fa fa-linkedin"></i></a></li>
         
-        <li class=""><a href="/feed.xml"><span class="fa fa-rss"></span></a></li>
+        <li><a class="rss" href="/feed.xml"><span class="fa fa-rss"></span></a></li>
       </ul>
     </section> <!-- End Section Contact -->
-    <section class="contact">
-      <h3 class="contact-title">AREAS</h3>
-      <ul>
-        <li><a href="/">Blog</a></li>
-        <li><a href="/presentations">Apresentações</a></li>
-      </ul>
-    </section>
+    <!--     
     <div class="copyright">
       <p>2020 &copy; Juliano Marcon</p>
-    </div>
-  </footer> <!-- End Footer -->
+    </div> -->
+
+  </div>
 </aside> <!-- End Sidebar -->
 
-<div class="content-box clearfix">
-  <div class="container-fluid">
+<div class="col-md-9 page-body">
+  <div class="col-md-12 ">
+    <div class="container-fluid">
     <div class="row-fluid">
         <div class="col-md-8">
             
@@ -305,7 +317,9 @@
         </div>
     </div>
 </div>
+  </div>
 </div>
+    </div>
   </div>
 
   <script>
@@ -323,6 +337,11 @@
   (adsbygoogle = window.adsbygoogle || []).push({});
 </script> -->
 <!-- End Analytics -->
+  <!-- Main Js -->
+<!-- <script src="/assets/js/main.js"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha256-OFRAJNoaD8L3Br5lglV7VyLRf0itmoBzWUoM+Sji4/8=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/highlight.min.js" integrity="sha256-/2C3CAfmuTGkUqK2mVrhkTacBscoR1caE0u2QZZ3Uh8=" crossorigin="anonymous"></script>
+<script src="/assets/js/main.js"></script>
 </body>
 
 </html>
