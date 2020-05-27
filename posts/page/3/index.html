@@ -111,20 +111,27 @@
     <!-- <link href="https://fonts.googleapis.com/css?family=PT+Serif:400,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet"> -->
     <link href="https://fonts.googleapis.com/css?family=Poppins:400,300,500,600,700" rel="stylesheet">
-        
+
     <!-- Bootstrap -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha256-aAr2Zpq8MZ+YA/D6JtRD3xtrwpEz2IqOS+pWD/7XKIw=" crossorigin="anonymous" />
-    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"
+        integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css"
+        integrity="sha256-aAr2Zpq8MZ+YA/D6JtRD3xtrwpEz2IqOS+pWD/7XKIw=" crossorigin="anonymous" />
+
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- href="/assets/fonts/font-awesome/css/font-awesome.min.css"> -->
-    
+
     <!-- Syntax Highlight -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/styles/darcula.min.css" integrity="sha256-5BRDJ9LsMByOdNbohiNu+sxguR70wTsnt20w6GAZvlU=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/styles/darcula.min.css"
+        integrity="sha256-5BRDJ9LsMByOdNbohiNu+sxguR70wTsnt20w6GAZvlU=" crossorigin="anonymous" />
 
     <!-- Styles -->
-    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="preload" href="/assets/css/main.css" as="style">
+    <link rel="preload" href="/assets/css/maindark.css" as="style">
+    <link rel="preload" href="/assets/js/main.js" as="script">
+
+    <link id="myStyle" rel="stylesheet" href="/assets/css/main.css">
 </head>
 
 <body>
@@ -132,7 +139,7 @@
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZNGSKJ" height="0" width="0"
       style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
-
+  <a class="toggleTheme" onclick="cssToggle(event)"></a>
   <div class="container">
     <div class="row">
       <aside class="sidebar col-md-3">
@@ -194,13 +201,13 @@
 
 <div class="content-page col-md-12">
 
-<article class="post">
+<article class="row">
     
-    <a class="post-thumbnail"
+    <a class="post-thumbnail col-md-4"
         style="background-image: url(/assets/img/posts/sync.jpg)"
         href="/posts/2016/03/ti-bimodal-uma-questao-de-respeito/"></a>
     
-    <div class="post-content">
+    <div class="col-md-8">
         <h2 class="post-title"><a href="/posts/2016/03/ti-bimodal-uma-questao-de-respeito/">TI Bimodal : Uma questão de respeito</a></h2>
         <!-- <p>Agilidade é, com certeza, o termo mais citado quando o futuro é discutido em grandes...</p> -->
         <p><p>Agilidade é, com certeza, o termo mais citado quando o futuro é discutido em grandes empresas financeiras ou necessitando se reinventar no mundo da tecnologia.</p>
@@ -219,13 +226,13 @@
      data-ad-slot="9217674039">
 </ins> -->
 
-<article class="post">
+<article class="row">
     
-    <a class="post-thumbnail"
+    <a class="post-thumbnail col-md-4"
         style="background-image: url(/assets/img/posts/languages.png)"
         href="/posts/2016/03/a-guerra-das-linguagens/"></a>
     
-    <div class="post-content">
+    <div class="col-md-8">
         <h2 class="post-title"><a href="/posts/2016/03/a-guerra-das-linguagens/">A Guerra das linguagens</a></h2>
         <!-- <p>Praticamente todos os dias vejo pessoas se digladiando sobre qual linguagem preferem, que a sua...</p> -->
         <p><p>Praticamente todos os dias vejo pessoas se digladiando sobre qual linguagem
@@ -249,13 +256,13 @@ quando se trata de um time de desenvolvimento.
      data-ad-slot="9217674039">
 </ins> -->
 
-<article class="post">
+<article class="row">
     
-    <a class="post-thumbnail"
+    <a class="post-thumbnail col-md-4"
         style="background-image: url(/assets/img/posts/hackathon2.png)"
         href="/posts/2016/03/beneficios-de-hackathons-dojos-internos/"></a>
     
-    <div class="post-content">
+    <div class="col-md-8">
         <h2 class="post-title"><a href="/posts/2016/03/beneficios-de-hackathons-dojos-internos/">Benefícios de Hackathons e DoJos internos</a></h2>
         <!-- <p>Grandes empresas executam DoJos ou Hackathons sobre desenvolvimento para identificar equipes e profissionais de alto...</p> -->
         <p><p>Grandes empresas executam DoJos ou Hackathons sobre desenvolvimento para
@@ -278,13 +285,13 @@ os benefícios de manter eventos como esse dentro da corporação.
      data-ad-slot="9217674039">
 </ins> -->
 
-<article class="post">
+<article class="row">
     
-    <a class="post-thumbnail"
+    <a class="post-thumbnail col-md-4"
         style="background-image: url(/assets/img/posts/sides.jpg)"
         href="/posts/2016/03/qual-seu-lado-da-forca/"></a>
     
-    <div class="post-content">
+    <div class="col-md-8">
         <h2 class="post-title"><a href="/posts/2016/03/qual-seu-lado-da-forca/">Qual o seu lado da força?</a></h2>
         <!-- <p>A força existe em todos nós. Mas são nossos sentimentos e atitudes que mostram qual...</p> -->
         <p><p>A força existe em todos nós. Mas são nossos sentimentos e atitudes que mostram
