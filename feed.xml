@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.julianomarcon.com.br/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.julianomarcon.com.br/" rel="alternate" type="text/html" /><updated>2020-05-26T21:07:01+00:00</updated><id>https://www.julianomarcon.com.br/feed.xml</id><title type="html">Juliano Marcon</title><subtitle>Procurando por um site que fala de Soluções de Software, Tecnologia e liderança? Talves os posts ajudem, mas se precisar de apoio, entre em contato por uma das redes sociais! ;-)
-</subtitle><author><name>Juliano Marcon</name><email>juliano.marcon@outloook.com</email></author><entry><title type="html">O Débito Técnico das Empresas Projetizadas</title><link href="https://www.julianomarcon.com.br/posts/2016/04/o-debito-tecnico-das-empresas-projetizadas/" rel="alternate" type="text/html" title="O Débito Técnico das Empresas Projetizadas" /><published>2016-04-24T14:36:41+00:00</published><updated>2016-04-24T14:36:41+00:00</updated><id>https://www.julianomarcon.com.br/posts/2016/04/o-debito-tecnico-das-empresas-projetizadas</id><content type="html" xml:base="https://www.julianomarcon.com.br/posts/2016/04/o-debito-tecnico-das-empresas-projetizadas/">&lt;p&gt;Durante o desenvolvimento de qualquer projeto, atalhos são tomados. O motivo? Vamos fazê-lo para entregar mais rápido. Só dessa vez.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://www.julianomarcon.com.br/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.julianomarcon.com.br/" rel="alternate" type="text/html" /><updated>2020-05-27T00:17:28+00:00</updated><id>https://www.julianomarcon.com.br/feed.xml</id><title type="html">Juliano Marcon</title><subtitle>Procurando por um site que fala de Soluções de Software, Tecnologia e liderança? Talves os posts ajudem, mas se precisar de apoio, entre em contato por uma das redes sociais! ;-)
+</subtitle><author><name>Juliano Marcon</name><email>juliano.marcon@outloook.com</email></author><entry><title type="html">Novo Layout</title><link href="https://www.julianomarcon.com.br/posts/2020/05/novo-layout/" rel="alternate" type="text/html" title="Novo Layout" /><published>2020-05-26T14:36:41+00:00</published><updated>2020-05-26T14:36:41+00:00</updated><id>https://www.julianomarcon.com.br/posts/2020/05/novo-layout</id><content type="html" xml:base="https://www.julianomarcon.com.br/posts/2020/05/novo-layout/">&lt;p&gt;Hoje, lanço um novo layout para o site, mais limpo e direto.&lt;/p&gt;
+
+&lt;p&gt;Pretendo reiniciar a produção de conteúdos.&lt;/p&gt;
+
+&lt;p&gt;O que acharam do design do blog? Sugestões?&lt;/p&gt;</content><author><name>Juliano Marcon</name><email>juliano.marcon@outloook.com</email></author><summary type="html">Hoje, lanço um novo layout para o site, mais limpo e direto.</summary></entry><entry><title type="html">O Débito Técnico das Empresas Projetizadas</title><link href="https://www.julianomarcon.com.br/posts/2016/04/o-debito-tecnico-das-empresas-projetizadas/" rel="alternate" type="text/html" title="O Débito Técnico das Empresas Projetizadas" /><published>2016-04-24T14:36:41+00:00</published><updated>2016-04-24T14:36:41+00:00</updated><id>https://www.julianomarcon.com.br/posts/2016/04/o-debito-tecnico-das-empresas-projetizadas</id><content type="html" xml:base="https://www.julianomarcon.com.br/posts/2016/04/o-debito-tecnico-das-empresas-projetizadas/">&lt;p&gt;Durante o desenvolvimento de qualquer projeto, atalhos são tomados. O motivo? Vamos fazê-lo para entregar mais rápido. Só dessa vez.&lt;/p&gt;
 
 &lt;p&gt;O débito técnico se acumula e, pouco a pouco, o código do produto é corrompido. Ninguém vai se importar com isso por muito tempo, mas, eventualmente alguém terá que se lidar com isso e, provavelmente, será você.&lt;/p&gt;
 
@@ -815,46 +819,4 @@ quiser utilizar uma GUI para acessar o banco.&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;O IP &lt;strong&gt;&lt;em&gt;192.168.99.100&lt;/em&gt;&lt;/strong&gt; é atribuído para a maquina virtual (virtualbox) criada como
 docker-machine pelo Kitematic.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>Juliano Marcon</name><email>juliano.marcon@outloook.com</email></author><category term="Node" /><category term="Cassandra" /><category term="Docker" /><category term="Infraestrutura" /><summary type="html">Este é o primeiro de três posts sobre como criar uma API utilizando o NodeJS e o Apache Cassandra.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.julianomarcon.com.br/posts/docker.png" /></entry><entry><title type="html">TI Bimodal : Uma questão de respeito</title><link href="https://www.julianomarcon.com.br/posts/2016/03/ti-bimodal-uma-questao-de-respeito/" rel="alternate" type="text/html" title="TI Bimodal : Uma questão de respeito" /><published>2016-03-19T20:18:14+00:00</published><updated>2016-03-19T20:18:14+00:00</updated><id>https://www.julianomarcon.com.br/posts/2016/03/ti-bimodal-uma-questao-de-respeito</id><content type="html" xml:base="https://www.julianomarcon.com.br/posts/2016/03/ti-bimodal-uma-questao-de-respeito/">&lt;p&gt;Agilidade é, com certeza, o termo mais citado quando o futuro é discutido em grandes empresas financeiras ou necessitando se reinventar no mundo da tecnologia.&lt;/p&gt;
-
-&lt;p&gt;A existência de um legado exige que as empresas foquem seus esforços em perfis distintos na gestão e investimento de seus recursos de tecnologia de informação.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;O Gartner define como:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A TI Bimodal é a prática de gerenciar separadamente dois modos coerentes de entrega de TI, um focado na estabilidade e outro focado na agilidade. &lt;strong&gt;O Modo1&lt;/strong&gt; é tradicional e sequencial enfatizando a segurança e a precisão. &lt;strong&gt;O Modo2&lt;/strong&gt; é exploratório e não linear pensando sempre em velocidade e agilidade.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;div class=&quot;reference&quot;&gt;[Gartner](http://http://www.gartner.com/it-glossary/bimodal/)&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;As grandes companhias estão aplicando o modelo ou estão seriamente inclinadas a tentar o modelo bimodal. Arrisco afirmar que esse modelo acaba sendo aplicado naturalmente e implicitamente ao iniciar o processo de contratação de pessoas com a cultura de agilidade e as inserindo dentro dos ambientes corporativos.&lt;/p&gt;
-
-&lt;p&gt;O desafio neste modelo não está seriamente em coexistir os processos e projetos nos dois modelos. O grande risco a ser gerenciado na aplicação de uma estratégia bimodal é tratar o conflito cultural entre os dois mundos.&lt;/p&gt;
-
-&lt;p&gt;As pessoas que estão investindo seu tempo e esforços em crescer dentro do Modo2 focando em inovação, exploração, velocidade e agilidade se vêem com a responsabilidade e cobrança em dar uma nova visão da empresa para o mercado de forma extremamente rápida, ou seja, ciclos de entregas rápidas e constantes.&lt;/p&gt;
-
-&lt;p&gt;Os profissionais que têm seu foco no Modo1 sempre preocupados com um processo seguro, alta qualidade e precisão das mudanças aplicadas sempre garantindo que a empresa esteja 100% disponível a seus clientes possuem ciclos mais longos de entrega.&lt;/p&gt;
-
-&lt;p&gt;Quando existe a interação entre os dois modelos é que as coisas complicam. Os objetivos dos profissionais são, em muitas vezes, excludentes. E, principalmente, as cobranças de metas e resultados também ocorrem de forma diferente.&lt;/p&gt;
-
-&lt;p&gt;Gerir o conflito de interesses é o principal desafio dentro do modelo bimodal e a forma de lidar com essas diferenças não deve ser através da separação das demandas e sim pelo respeito entre os times.&lt;/p&gt;
-
-&lt;p&gt;A movimentação para um modelo de inovação com equipes separadas pode aparentar uma preferência da empresa pela inovação diante da operação. Isso pode causar um impacto negativo nas pessoas que trabalham melhor no Modo1 e que escolheram se dedicar a isso.&lt;/p&gt;
-
-&lt;p&gt;Em algumas situações, as equipes mais ágeis do Modo2 podem ficar indignadas com a cadência mais lenta de entregas do Modo1 e acabam por forçar a evolução através do desrespeito dos limites entre os Modos de trabalho.&lt;/p&gt;
-
-&lt;p&gt;Quando uma oportunidade de mudança de um processo de um produto aparece diante das equipes no Modo1 parecendo algo simples e a equipe do Modo2 avalia as mudanças nos diversos processos que esta oportunidade pode causar e que os impactos nos sistemas podem levar a um ciclo mais longo de entrega. O sentimento de incapacidade de mudança do time do Modo1 aparece rapidamente.&lt;/p&gt;
-
-&lt;p&gt;Equipes do Modo1 devem ter autonomia para fazer as experimentações necessárias para encontrar novas formas e produtos, mas é de extrema importância que essa mesma equipe &lt;strong&gt;respeite&lt;/strong&gt; a autonomia e&lt;/p&gt;
-
-&lt;p&gt;Ambas as partes devem respeitar seus pares em relação a evolução tecnológica da empresa e trabalharem juntos para construir um modelo de trabalho onde a negociação entre os times resulte em uma sincronização dos ciclos de entrega garantindo evolução contínua com grandes lançamentos em ciclos mais longos.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/img/posts/bimodal.png&quot; class=&quot;img-responsive&quot; alt=&quot;Bimodal IT cycles&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;É essencial que os times do Modo2 se preparem para um mundo de &lt;a href=&quot;https://pt.wikipedia.org/wiki/Internet_das_Coisas&quot;&gt;objetos conectados na internet&lt;/a&gt; a todo momento, a &lt;a href=&quot;https://en.wikipedia.org/wiki/Social_media_measurement&quot;&gt;monitoração da interação social&lt;/a&gt; de seu cliente diante da marca, disponibilização de produtos e serviços em canais que nem mesmo existem atualmente, identificação e segurança do usuário no mundo digital, computação em nuvem e os possíveis concorrentes que esses modelos podem trazer (&lt;a href=&quot;https://pt.wikipedia.org/wiki/Software_como_serviço&quot;&gt;SaaS&lt;/a&gt; e &lt;a href=&quot;https://pt.wikipedia.org/wiki/Plataforma_como_serviço&quot;&gt;PaaS&lt;/a&gt;), etc.&lt;/p&gt;
-
-&lt;p&gt;São diversas coisas que não necessariamente impactam a disponibilização dos serviços essenciais da empresa e que podem dar visibilidade e velocidade para as empresas dentro dos cenários digitais do futuro.&lt;/p&gt;
-
-&lt;p&gt;E eles devem compreender e respeitar que os serviços que eles consomem são o coração da empresa e o coração não deve falhar.&lt;/p&gt;</content><author><name>Juliano Marcon</name><email>juliano.marcon@outloook.com</email></author><category term="DoJo" /><category term="Hackatons" /><category term="Liderança Corporativa" /><category term="Visão Corporativa" /><summary type="html">Agilidade é, com certeza, o termo mais citado quando o futuro é discutido em grandes empresas financeiras ou necessitando se reinventar no mundo da tecnologia.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.julianomarcon.com.br/posts/sync.jpg" /></entry></feed>
+&lt;/blockquote&gt;</content><author><name>Juliano Marcon</name><email>juliano.marcon@outloook.com</email></author><category term="Node" /><category term="Cassandra" /><category term="Docker" /><category term="Infraestrutura" /><summary type="html">Este é o primeiro de três posts sobre como criar uma API utilizando o NodeJS e o Apache Cassandra.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.julianomarcon.com.br/posts/docker.png" /></entry></feed>
