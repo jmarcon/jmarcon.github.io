@@ -4,6 +4,8 @@
 <head>
     <meta charset="utf-8">
     <title>Steps to unlock integration strategy</title>
+    <link rel="shortcut icon" href="/assets/img/favicon/favicon.ico"
+    type="image/x-icon">
     
     <meta name="description" content="Descrição das oportunidades e desafios de implantar a arquitetura de API-Led proposta pela Mulesoft">
     
@@ -14,9 +16,9 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-    <link rel="stylesheet" href="/assets/reveal/css/reveal.css">
+    <link rel="stylesheet" href="/assets/reveal/reveal.css">
     
-    <link rel="stylesheet" href="/assets/reveal/css/theme/simple.css" id="theme">
+    <link rel="stylesheet" href="/assets/reveal/theme/simple.css" id="theme">
     
 
     
@@ -24,17 +26,17 @@
     
 
     <!-- Theme used for syntax highlighting of code -->
-    <link rel="stylesheet" href="/assets/reveal/lib/css/atom-dark.css">
+    <link rel="stylesheet" href="/assets/reveal/plugin/highlight/atom-one-dark.min.css">
 
     <!-- Printing and PDF exports -->
-    <script>
+    <!-- <script>
         var link = document.createElement('link');
         link.rel = 'stylesheet';
         link.type = 'text/css';
         link.href = window.location.search.match(/print-pdf/gi) ? '/assets/reveal/css/print/pdf.css' :
             '/assets/reveal/css/print/paper.css';
         document.getElementsByTagName('head')[0].appendChild(link);
-    </script>
+    </script> -->
 
     <!--[if lt IE 9]>
 		<script src="lib/js/html5shiv.js"></script>
@@ -402,8 +404,13 @@
     </section>
 </div>
     </div>
-    <script src="/assets/reveal/lib/js/head.min.js"></script>
-    <script src="/assets/reveal/js/reveal.js"></script>
+    <!-- <script src="/assets/reveal/lib/js/head.min.js"></script> -->
+    <script src="/assets/reveal/reveal.js"></script>
+    <script src="/assets/reveal/plugin/notes/notes.js"></script>
+    <script src="/assets/reveal/plugin/markdown/markdown.js"></script>
+    <script src="/assets/reveal/plugin/highlight/highlight.js"></script>
+    <script src="/assets/reveal/plugin/zoom/zoom.js"></script>
+    <script src="/assets/reveal/plugin/math/math.js"></script>
     <script>
         // More info https://github.com/hakimel/reveal.js#configuration
         Reveal.initialize({
@@ -417,42 +424,8 @@
             progress: true,
             history: true,
             center: true,
-         
-            // More info https://github.com/hakimel/reveal.js#dependencies
-            dependencies: [{
-                    src: '/assets/reveal/lib/js/classList.js',
-                    condition: function () {
-                        return !document.body.classList;
-                    }
-                },
-                {
-                    src: '/assets/reveal/plugin/markdown/marked.js',
-                    condition: function () {
-                        return !!document.querySelector('[data-markdown]');
-                    }
-                },
-                {
-                    src: '/assets/reveal/plugin/markdown/markdown.js',
-                    condition: function () {
-                        return !!document.querySelector('[data-markdown]');
-                    }
-                },
-                {
-                    src: '/assets/reveal/plugin/highlight/highlight.js',
-                    async: true,
-                    callback: function () {
-                        hljs.initHighlightingOnLoad();
-                    }
-                },
-                {
-                    src: '/assets/reveal/plugin/zoom-js/zoom.js',
-                    async: true
-                },
-                {
-                    src: '/assets/reveal/plugin/notes/notes.js',
-                    async: true
-                }
-            ]
+            hash: true,
+            plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealZoom, RevealMath ]
         });
 
         Reveal.addEventListener('ready', function (event) {
