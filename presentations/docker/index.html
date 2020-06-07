@@ -619,16 +619,17 @@ Successfully built 50a2bdfd7c9d
         // More info https://github.com/hakimel/reveal.js#configuration
         Reveal.initialize({
             width:  1600 ,
-            height:  { { page.height } } ,
-         transition: 'fade',  // transitions: none/fade/slide/convex/concave/zoom
-        margin: 0.1,
+            height:  900 ,
+            // transitions: none/fade/slide/convex/concave/zoom
+             transition: 'fade',  
+            margin: 0.1,
             minScale: 0.2,
-                maxScale: 3,
-                    controls: true,
-                        progress: true,
-                            history: true,
-                                center:  true,
-        hash: true,
+            maxScale: 3,
+            controls: true,
+            progress: true,
+            history: true,
+            center:  true,
+            hash: true,
             plugins: [RevealMarkdown, RevealHighlight, RevealNotes, RevealZoom, RevealMath]
         });
 
