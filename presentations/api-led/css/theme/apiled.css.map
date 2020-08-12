@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "apiled.css",
+	"sources": [
+		"apiled.scss"
+	],
+	"sourcesContent": [
+		"/* COLORS: */\n$background1: #FFFFFF;\n$text1: hsl(0, 0%, 0%);\n$background2: #00A1E0;\n$text2: #323031;\n$accent1: #646469;\n$accent2: #00A1E0;\n$accent3: #999899;\n$accent4: #00607C;\n$accent5: #00B39C;\n$accent6: #5E66F9;\n\n\nbody {\n    font-family: Verdana, Geneva, Tahoma, sans-serif;\n}\n\n.reveal {\n    .slides > section.title {\n        h1 {\n            color: $background1;\n            font-size: 5em;\n            line-height: 1.2em;\n            font-weight: normal;\n        }\n\n        h2 {\n            color: $background1;\n            font-size: 3em;\n            line-height: 1.2em;\n            margin: 0 1em;\n            font-weight: normal;\n        }\n\n        h3 {\n            color: $background1;\n            font-size: 1.5em;\n            line-height: 1.2em;\n            margin: 0 1em;\n            font-weight: normal;\n        }\n    }\n\n    .slides > section {\n        color: $text2;\n        h1.title {\n            font-size: 3em;\n        }\n\n        img {\n            border: 0;\n            box-shadow: 0 0 0 transparent;\n            background: transparent;\n        }\n    }\n}"
+	],
+	"names": [],
+	"mappings": "AAaA,AAAA,IAAI,AAAC,CACD,WAAW,CAAE,mCAAmC,CACnD,AAED,AAEQ,OAFD,CACH,OAAO,CAAG,OAAO,AAAA,MAAM,CACnB,EAAE,AAAC,CACC,KAAK,CAnBH,IAAO,CAoBT,SAAS,CAAE,GAAG,CACd,WAAW,CAAE,KAAK,CAClB,WAAW,CAAE,MAAM,CACtB,AAPT,AASQ,OATD,CACH,OAAO,CAAG,OAAO,AAAA,MAAM,CAQnB,EAAE,AAAC,CACC,KAAK,CA1BH,IAAO,CA2BT,SAAS,CAAE,GAAG,CACd,WAAW,CAAE,KAAK,CAClB,MAAM,CAAE,KAAK,CACb,WAAW,CAAE,MAAM,CACtB,AAfT,AAiBQ,OAjBD,CACH,OAAO,CAAG,OAAO,AAAA,MAAM,CAgBnB,EAAE,AAAC,CACC,KAAK,CAlCH,IAAO,CAmCT,SAAS,CAAE,KAAK,CAChB,WAAW,CAAE,KAAK,CAClB,MAAM,CAAE,KAAK,CACb,WAAW,CAAE,MAAM,CACtB,AAvBT,AA0BI,OA1BG,CA0BH,OAAO,CAAG,OAAO,AAAC,CACd,KAAK,CAxCL,OAAO,CAkDV,AArCL,AA4BQ,OA5BD,CA0BH,OAAO,CAAG,OAAO,CAEb,EAAE,AAAA,MAAM,AAAC,CACL,SAAS,CAAE,GAAG,CACjB,AA9BT,AAgCQ,OAhCD,CA0BH,OAAO,CAAG,OAAO,CAMb,GAAG,AAAC,CACA,MAAM,CAAE,CAAC,CACT,UAAU,CAAE,iBAAiB,CAC7B,UAAU,CAAE,WAAW,CAC1B"
+}
