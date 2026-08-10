@@ -1,3 +1,5 @@
+QUnit.config.autostart = false;
+
 Reveal.addEventListener( 'ready', function() {
 
 	QUnit.module( 'Markdown' );
@@ -39,6 +41,7 @@ Reveal.addEventListener( 'ready', function() {
 		assert.strictEqual( document.querySelectorAll( '.reveal .slides section p.fragment.highlight-blue' ).length, 3, 'found three elements with fragment highlight-blue in single slide with default element attribute separator' );
 	});
 
+	QUnit.start();
 } );
 
-Reveal.initialize();
+Reveal.initialize({ plugins: [RevealMarkdown] });

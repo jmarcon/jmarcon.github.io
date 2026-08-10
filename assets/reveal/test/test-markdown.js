@@ -1,3 +1,5 @@
+QUnit.config.autostart = false;
+
 Reveal.addEventListener( 'ready', function() {
 
 	QUnit.module( 'Markdown' );
@@ -6,6 +8,7 @@ Reveal.addEventListener( 'ready', function() {
 		assert.strictEqual( document.querySelectorAll( '.reveal .slides>section>section' ).length, 2, 'found two slides' );
 	});
 
+	QUnit.start();
 } );
 
-Reveal.initialize();
+Reveal.initialize({ plugins: [RevealMarkdown] });

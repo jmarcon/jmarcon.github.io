@@ -1,3 +1,5 @@
+QUnit.config.autostart = false;
+
 Reveal.addEventListener( 'ready', function() {
 
 	QUnit.module( 'Markdown' );
@@ -39,6 +41,7 @@ Reveal.addEventListener( 'ready', function() {
 		assert.strictEqual( document.querySelectorAll( '.reveal .slides>section[data-background="#ff0000"]' ).length, 3, 'found three horizontal slides with data-background="#ff0000"' );
 	});
 
+	QUnit.start();
 } );
 
-Reveal.initialize();
+Reveal.initialize({ plugins: [RevealMarkdown] });
