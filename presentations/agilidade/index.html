@@ -314,9 +314,14 @@
                             src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=8178531267&Format=_SL250_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=jmarcon-20&language=pt_BR"></a><img
                         id="amazon-ir-8178531267" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
                     <script>
-                        window.addEventListener("load", function () {
+                        var loadAmazonTrackingPixel8178531267 = function () {
                             document.getElementById("amazon-ir-8178531267").src = "https://ir-br.amazon-adsystem.com/e/ir?t=jmarcon-20&language=pt_BR&l=li3&o=33&a=8178531267";
-                        });
+                        };
+                        if (document.readyState === "complete") {
+                            loadAmazonTrackingPixel8178531267();
+                        } else {
+                            window.addEventListener("load", loadAmazonTrackingPixel8178531267);
+                        }
                     </script>
                     <span class="date">Junho/2007</span>
                 </div>
