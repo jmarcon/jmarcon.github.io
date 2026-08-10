@@ -236,7 +236,7 @@
     </script>
     <script>
         (function () {
-            function loadScript(src, attrs) {
+            function loadScript(src, attrs, onload) {
                 var script = document.createElement('script');
                 script.src = src;
                 script.async = true;
@@ -244,6 +244,9 @@
                     Object.keys(attrs).forEach(function (key) {
                         script.setAttribute(key, attrs[key]);
                     });
+                }
+                if (onload) {
+                    script.addEventListener('load', onload, { once: true });
                 }
                 document.body.appendChild(script);
             }
@@ -254,11 +257,11 @@
                     'gtm.start': new Date().getTime(),
                     event: 'gtm.js'
                 });
-                window.gtag = window.gtag || function () { dataLayer.push(arguments); };
-                gtag('js', new Date());
-                gtag('config', 'UA-63413033-1');
-
-                loadScript('https://www.googletagmanager.com/gtag/js?id=UA-63413033-1');
+                window.gtag = window.gtag || function () { window.dataLayer.push(arguments); };
+                loadScript('https://www.googletagmanager.com/gtag/js?id=UA-63413033-1', null, function () {
+                    gtag('js', new Date());
+                    gtag('config', 'UA-63413033-1');
+                });
                 loadScript('https://www.googletagmanager.com/gtm.js?id=GTM-WZNGSKJ');
                 loadScript(
                     'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
@@ -278,7 +281,6 @@
                 window.addEventListener('load', deferTrackingLoad, { once: true });
             }
         })();
-    </script>
     </script>
 </body>
 
