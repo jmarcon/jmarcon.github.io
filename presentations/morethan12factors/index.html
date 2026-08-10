@@ -2,32 +2,6 @@
 <html lang="pt-br">
 
 <head>
-    <!-- Google Tag Manager -->
-        <script>(function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({
-                'gtm.start':
-                    new Date().getTime(), event: 'gtm.js'
-            }); var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-WZNGSKJ');</script>
-    <!-- End Google Tag Manager -->
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-63413033-1"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-63413033-1');
-    </script>
-    <!-- End Google Analytics -->
-
-    <!-- Google adsense -->
-    <script data-ad-client="ca-pub-2593937197676387" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <!-- End adsense -->
-
     <meta charset="utf-8">
     <title>Mais de 12 fatores</title>
     <link rel="shortcut icon" href="/assets/img/favicon/favicon.ico"
@@ -259,6 +233,51 @@
             jsElement.src = "js/behavior.js";
             document.body.appendChild(jsElement);
         });
+    </script>
+    <script>
+        (function () {
+            function loadScript(src, attrs) {
+                var script = document.createElement('script');
+                script.src = src;
+                script.async = true;
+                if (attrs) {
+                    Object.keys(attrs).forEach(function (key) {
+                        script.setAttribute(key, attrs[key]);
+                    });
+                }
+                document.body.appendChild(script);
+            }
+
+            function loadTrackingScripts() {
+                window.dataLayer = window.dataLayer || [];
+                window.dataLayer.push({
+                    'gtm.start': new Date().getTime(),
+                    event: 'gtm.js'
+                });
+                window.gtag = window.gtag || function () { dataLayer.push(arguments); };
+                gtag('js', new Date());
+                gtag('config', 'UA-63413033-1');
+
+                loadScript('https://www.googletagmanager.com/gtag/js?id=UA-63413033-1');
+                loadScript('https://www.googletagmanager.com/gtm.js?id=GTM-WZNGSKJ');
+                loadScript(
+                    'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js',
+                    { 'data-ad-client': 'ca-pub-2593937197676387' }
+                );
+            }
+
+            function deferTrackingLoad() {
+                window.requestAnimationFrame(function () {
+                    window.setTimeout(loadTrackingScripts, 0);
+                });
+            }
+
+            if (document.readyState === 'complete') {
+                deferTrackingLoad();
+            } else {
+                window.addEventListener('load', deferTrackingLoad, { once: true });
+            }
+        })();
     </script>
     </script>
 </body>
