@@ -1,3 +1,5 @@
+QUnit.config.autostart = false;
+
 Reveal.addEventListener( 'ready', function() {
 
 	QUnit.module( 'Markdown' );
@@ -13,14 +15,11 @@ Reveal.addEventListener( 'ready', function() {
 		assert.strictEqual( /[“”‘’]/.test( text ), true );
 	});
 
+	QUnit.start();
 } );
 
 Reveal.initialize({
-	dependencies: [
-		{ src: '../plugin/markdown/marked.js' },
-		// Test loading JS files with query strings
-		{ src: '../plugin/markdown/markdown.js?query=string' },
-	],
+	plugins: [RevealMarkdown],
 	markdown: {
 		smartypants: true
 	}

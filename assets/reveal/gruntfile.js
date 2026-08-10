@@ -1,4 +1,4 @@
-const sass = require('node-sass');
+const sass = require('sass');
 
 module.exports = grunt => {
 
@@ -24,6 +24,12 @@ module.exports = grunt => {
 		},
 
 		qunit: {
+			options: {
+				puppeteer: {
+					executablePath: require('child_process').execSync('which google-chrome chromium chromium-browser 2>/dev/null | head -1').toString().trim() || undefined,
+					args: ['--no-sandbox', '--disable-setuid-sandbox']
+				}
+			},
 			files: [ 'test/*.html' ]
 		},
 
